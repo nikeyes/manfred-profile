@@ -45,6 +45,53 @@
     "jobs": [
       {
         "organization": {
+          "name": "Atos",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/48e16392-2173-4670-bab2-bb01cc5f48b8_atos_logo.jpeg",
+            "alt": "atos_logo.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": ".Net Solution Architect",
+            "startDate": "2010-07-01",
+            "finishDate": "2012-12-01",
+            "challenges": [
+              {
+                "description": "- Representante de España dentro del SME (Subject Matter Experts) de ATOS International, encargado de la definición y publicación de las normas y técnicas mundiales para el desarrollo de soluciones con tecnología Microsoft.\n- Arquitecto, jefe de equipo y soporte a los equipos de desarrollo. \n- Soporte a preventas y prototipos para nuevos clientes. \n- Uso de tecnologías como .Net, MVC 4, Javascript, IoC Ninject, Oracle, SQL Server, TFS."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MVC",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "TFS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "SEYSTIC",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/5fa1fae5-f20d-43e9-82d4-d43e76a61054_1711442594818.jpeg",
