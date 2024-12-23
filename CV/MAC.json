@@ -47,6 +47,77 @@
         "organization": {
           "name": "Adevinta",
           "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/dcbe41f9-1ca8-4880-b73a-f4d8f5c708f4_adevintaspain_logo.jpeg",
+            "alt": "adevintaspain_logo.jpeg"
+          },
+          "URL": "https://www.adevinta.com"
+        },
+        "roles": [
+          {
+            "name": "Machine Learning Engineer",
+            "startDate": "2021-10-01",
+            "challenges": [
+              {
+                "description": "• Contribuyo en el desarrollo end-to-end de modelos de machine learning que ayuden a nuestros equipos multidisciplinares.\n• Creo herramientas para nuestra machine learning platform que aceleran  el día a día de nuestros DataScientist.\n• Enriquezco el desarrollo de modelos de machine learning con buenas prácticas del desarrollo de software para hacer productos mantenibles y escalables a largo plazo.\n• Soy puente de unión entre DataScientits, SRE's y Backends para conseguir aprovechar el potencial de machine learning en nuestros equipos\n• Gestiono el ciclo de vida de nuestros proyectos de machine learning usando la filosofía MLOps\n- En los últimos 2 años impulso el uso de IA Generativa dentro de Adevinta, tanto desarrollado proyectos como formando equipos de producto, UX, PMs/POs, etc."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Airflow",
+                "type": "technology"
+              },
+              {
+                "name": "Databricks",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Github Actions",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Travis CI",
+                "type": "technology"
+              },
+              {
+                "name": "YAML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Adevinta",
+          "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/33a13f39-f17c-4c8b-900f-57078fd7035c_adevintaspain_logo.jpeg",
             "alt": "adevintaspain_logo.jpeg"
           },
