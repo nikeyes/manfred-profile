@@ -668,6 +668,21 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso sobre procesos de selección, liderazgo y coaching",
+        "startDate": "2017-05-01",
+        "institution": {
+          "name": "Lee Hecht Harrison",
+          "description": "Técnicas sobre procesos de selección, liderazgo de equipos y coaching de personas.",
+          "URL": "https://www.lhh.com/es/es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/e14aecbc-2490-4432-842d-79927f63b15a_lee-hecht-harrison-6.jpeg",
+            "alt": "Lee-Hecht-Harrison-600x450-3856927645.jpeg"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería Informática",
