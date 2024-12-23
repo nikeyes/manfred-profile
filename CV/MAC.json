@@ -516,7 +516,19 @@
       },
       {
         "skill": {
+          "name": "Airflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Databricks",
           "type": "technology"
         }
       },
@@ -558,6 +570,12 @@
       },
       {
         "skill": {
+          "name": "LangChain",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Pandas",
           "type": "technology"
         }
@@ -577,6 +595,12 @@
       {
         "skill": {
           "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLite",
           "type": "technology"
         }
       },
