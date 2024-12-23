@@ -45,6 +45,49 @@
     "jobs": [
       {
         "organization": {
+          "name": "Instituto municipal de informática de Barcelona",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/ba10430f-2ac4-47b2-9ff9-a95097c99ba0_logo.png",
+            "alt": "logo.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Analista-Programador",
+            "startDate": "2003-10-01",
+            "finishDate": "2004-07-01",
+            "challenges": [
+              {
+                "description": "Análisis y desarrollo Analista de aplicaciones cartográficas para el departamento de Información de Base y Cartografía. (Delphi, C, C++, ORACLE, UML)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "Delphi",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "UML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Escola Universitaria Politecnica de Mataro (Tecnocampus)",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/7c439d50-c753-4943-a046-e64091f1a740_1631330386539.jpeg",
