@@ -45,6 +45,53 @@
     "jobs": [
       {
         "organization": {
+          "name": "newshore",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/c5be863b-3471-4942-bd74-6b2d70aada6b_newshore_logo.jpeg",
+            "alt": "newshore_logo.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Arquitecto de aplicaciones - Technical Team Leader",
+            "startDate": "2013-01-01",
+            "finishDate": "2014-02-01",
+            "challenges": [
+              {
+                "description": "- Arquitecto y jefe de equipo liderando a Newshore dentro de Vueling.com\n- Además, desempeñé roles como desarrollador, analista, revisor de Código y mentor de nuevas incorporaciones para Vueling.com.\n- Formé parte del equipo de arquitectura de Vueling para definir y decidir hacia donde evolucionará la plataforma.\n- Desarrollo basado en Scrum, prinicpios SOLID, DDD (Domain Driven Design), TDD (Test Driven Design) y entrega continua. \n- Utilizando en tecnologías como: TFS, WCF, MVC 4, Entity Framework, SQL Server, Javascript, Google Maps API, jQuery, IoC Autofac, NMock"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MVC",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "TFS",
+                "type": "technology"
+              },
+              {
+                "name": "WebApi",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Atos",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/48e16392-2173-4670-bab2-bb01cc5f48b8_atos_logo.jpeg",
