@@ -47,6 +47,50 @@
         "organization": {
           "name": "Adevinta",
           "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/33a13f39-f17c-4c8b-900f-57078fd7035c_adevintaspain_logo.jpeg",
+            "alt": "adevintaspain_logo.jpeg"
+          },
+          "URL": "https://www.adevinta.com"
+        },
+        "roles": [
+          {
+            "name": "Engineering Manager",
+            "startDate": "2020-01-01",
+            "finishDate": "2021-11-01",
+            "challenges": [
+              {
+                "description": "• Cada día trabajo con mis compañeros para que sean mejores desarrolladores y puedan alcanzar su máximo potencial.\n• Además ayudo a nuestros equipos multidisciplinares a convertirse en equipos de alto rendimiento y llegar al siguiente nivel."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Google Sheets",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Power BI",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Adevinta",
+          "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/00ff65bd-fdba-4b4d-ac95-d1f91678c84c_adevintaspain_logo.jpeg",
             "alt": "adevintaspain_logo.jpeg"
           },
