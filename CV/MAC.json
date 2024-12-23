@@ -504,6 +504,19 @@
       },
       {
         "details": {
+          "name": "Ganador del Adevinta Ingnite 2023",
+          "description": "Ganador del premio embajador de Adevinta en la edición 2023 por mi contribución mentorizando a muchos de mis compañeros y compañeras y difundir la marca Adevinta.",
+          "URL": "https://adevinta.com/stories/articles/ignite-and-the-adevinta-awards/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/931009f9-e3be-476b-8cf7-37a958c3101a_copie-de-finca-mas-s.jpg",
+            "alt": "Copie de Finca Mas Solers R62_9277 1.jpg"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2023-06-01"
+      },
+      {
+        "details": {
           "name": "Ya sé Machine Learning pero... ¿estoy preparada para el mundo real?",
           "description": "Charla que nace de una mentoria a mi compañera Elena para mejorar su confianza, eliminar el síndrome del impostor y mejorar sus habilidades comunicativas.\nEsta charla fue el final de la mentoría y la dimos en:\n- Adevinta\n- Software Crafters Barcelona\n- Codemotion \n- DevBCN",
           "image": {
