@@ -507,6 +507,19 @@
       },
       {
         "details": {
+          "name": "Ponente Agile Open Space 2018",
+          "description": "Ponencia en el Agile Open Space sobre \"Desarrolladores en un evento Agile\"",
+          "URL": "https://www.youtube.com/watch?v=N0r9G9YdXvE",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/0df3dc2b-b99e-4925-b9e0-3b870193cdac_output-onlinepngtool.png",
+            "alt": "output-onlinepngtools.png"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2018-07-01"
+      },
+      {
+        "details": {
           "name": "Miembro desde hace más de 10 años de la Software Crafters Barcelona",
           "description": "Siempre que he podido combinarlo con la familiar, he participado como ponente, facilitador o organizando charlas para apoyar a la comunidad.",
           "URL": "https://www.meetup.com/es-ES/software-crafters-barcelona/",
@@ -690,7 +703,7 @@
         "institution": {
           "name": "Universitat Politècnica de Catalunya (UPC)"
         },
-        "finishDate": "2006-06-01"
+        "finishDate": "2005-07-01"
       },
       {
         "studyType": "officialDegree",
