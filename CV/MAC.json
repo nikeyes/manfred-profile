@@ -481,6 +481,30 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Ya sé Machine Learning pero... ¿estoy preparada para el mundo real?",
+          "description": "Charla que nace de una mentoria a mi compañera Elena para mejorar su confianza, eliminar el síndrome del impostor y mejorar sus habilidades comunicativas.\nEsta charla fue el final de la mentoría y la dimos en:\n- Adevinta\n- Software Crafters Barcelona\n- Codemotion \n- DevBCN"
+        },
+        "type": "talk",
+        "publishingDate": "2022-06-01",
+        "relatedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "Kubernetes",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
