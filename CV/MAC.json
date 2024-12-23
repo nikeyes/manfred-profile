@@ -686,6 +686,21 @@
           "name": "Escola Universitaria Politècnica de Mataró"
         },
         "finishDate": "2003-02-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Management 3.0 con Ángel Medinilla y Gabriel Prat",
+        "startDate": "2018-03-01",
+        "institution": {
+          "name": "www.improvement21.com",
+          "description": "Marco de gestión alineado con Agile y la gestión de personas y equipos.",
+          "URL": "https://www.improvement21.com/eventos/curso-oficial-management-3-0-foundations-workout-barcelona-marzo-2018/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/e2fda4e3-ed2f-4b54-b49a-5985d971dec6_m30-logo.png",
+            "alt": "m30-logo.png"
+          }
+        }
       }
     ],
     "softSkills": [
