@@ -21,6 +21,12 @@
         "municipality": "Bigues i Riells"
       }
     },
+    "interestingFacts": [
+      {
+        "topic": "Formación continua en plataformas online",
+        "fact": "Udemy\nCoursera\nDeeplearning.ai"
+      }
+    ],
     "relevantLinks": [
       {
         "type": "linkedin",
