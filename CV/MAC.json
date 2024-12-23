@@ -45,6 +45,62 @@
     "jobs": [
       {
         "organization": {
+          "name": "Adevinta",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/00ff65bd-fdba-4b4d-ac95-d1f91678c84c_adevintaspain_logo.jpeg",
+            "alt": "adevintaspain_logo.jpeg"
+          },
+          "URL": "https://adevinta.com/"
+        },
+        "roles": [
+          {
+            "name": "Lead Software Engineer",
+            "startDate": "2019-04-01",
+            "finishDate": "2020-01-01",
+            "challenges": [
+              {
+                "description": "- Formando parte del equipo de Real Estate de Adevinta Spain (Fotocasa y Habitaclia)\n- Desarrollo y facilito la creación nuevas funcionalidades para nuestros portales.\n- Creando herramientas y procesos para facilitar el desarrollo al resto de equipos de Adevinta Spain.\n- Gestionando el ciclo de vida de las aplicaciones (ALM) basado en Github\n- Trabajando con tecnologías como: .Net (WebAPI, MVC, Task Parallel Library, Async Task), Dapper, ES6, Powershell, Python.\n- Usando en el día a día formas de trabajar como PEAK (OKRs), Lean Startup y Agile junto a los equipos de producto."
+              }
+            ],
+            "competences": [
+              {
+                "name": "ASP.net",
+                "type": "technology"
+              },
+              {
+                "name": "Dapper",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "MVC",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Travis CI",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Habitaclia",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/c092669c-b7d4-4226-8f16-1a862d9d5b75_habitacliacom_logo.jpeg",
