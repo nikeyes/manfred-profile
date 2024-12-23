@@ -1,0 +1,264 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jorge",
+      "surnames": "Castro Nistal",
+      "title": "%%HEADLINE%%",
+      "description": "Me encanta el mundo del desarrollo de software y de los datos, pero lo que me apasiona es resolver problemas para ayudar a otras personas.\nAdemás tengo la suerte de poder compaginarlo con mi otra pasión, mis 4 hijos.\n\nMe adapto rápido al cambio y facilito que otras personas lo hagan conmigo.\nAunque no es lo que más me apasiona, también puedo asumir tareas de gestión de equipos o de proyectos.\n\nMe gusta trabajar en equipo porque es cuando realmente consigo un gran impacto y que lleguemos lejos. Pero también puedo trabajar solo y consigo objetivos muy rápido pero suelen ser menos ambiciosos.\n\nMe encanta aprender y es un placer descubrir que incluso el más junior del equipo puede enseñarme algo.\n\nA lo largo de más de 20 años he trabajado con organizaciones como Adevinta (Fotocasa, Habitaclia, Infojobs, Coches.net, Milanuncios), Vueling, Siemens, Ajuntament de Barcelona, Generalitat de Catalunya, ENDESA, AENA, Andorra Telecom o Àrea Metropolitana de Barcelona.\n\nLo más importante no ha sido estar en esas organizaciones sino haber tenido la suerte de poder ayudar a resolver problemas reales de la gente, como encontrar la casa o el trabajo de tus sueños, llevar la fibra hasta cualquier hogar de todo un país, ayudar a los ganaderos a obtener recursos y ayudas para desarrollar su actividad e incluso ayudar a que los niños coman más fruta.\n\nNo me considero especialista en nada pero domino muchos ámbitos. Puedo trabajar en cualquier parte del ciclo de desarrollo de software. Tanto software clásico como Machine Learning. Y en los últimos 2 años he llevado a producción con éxito varios productos utilizando IA Generativa. (y varios que nunca han llegado a producción... 😅)\n\nLa mayor parte de mi carrera he trabajado con el stack de tecnologías Microsoft. Luego pasé de odiar Javascript a amarlo incondicionalmente.\nY en mis últimas aventura como machine learning engineer he descubierto las bondades de python, kubeflow, Databricks, AWS y kubernetes.\n\nSoy un firme defensor de Agile pero siempre acompañado de prácticas técnicas como Extreme Programming (diseño simple, testing, refactoring, pair programmin, Integración y entrega continua)\n\nY si has llegado hasta aquí, ¿por qué no me contactas y nos conocemos? Puede que sea justo la persona que estas buscando. 🤗",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/4b9582e8-e46f-44b9-9c0f-edd101fb155e_foto_linkedin.jpeg",
+        "alt": "Foto_Linkedin.jpeg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJk11olJXDpBIRcAOkIeD6AAQ)",
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Bigues i Riells"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jorge-castro-nistal/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/nikeyes"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/nikey_es"
+      },
+      {
+        "type": "other",
+        "URL": "https://nikeyes.github.io/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "CA",
+        "fullName": "Catalán / Valenciano",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AWS EC2",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS SageMaker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github Actions",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pandas",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PyTorch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pytest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scikit-learn",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TensorFlow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "YAML",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería Informática",
+        "startDate": "2003-03-01",
+        "institution": {
+          "name": "Universitat Politècnica de Catalunya (UPC)"
+        },
+        "finishDate": "2006-06-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería técnica informática",
+        "startDate": "1999-09-01",
+        "institution": {
+          "name": "Escola Universitaria Politècnica de Mataró"
+        },
+        "finishDate": "2003-02-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Liderazgo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Resistencia a la frustración",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/jorge-castro-nistal/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/nikeyes",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/nikey_es",
+          "type": "twitter"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "Engineering Management",
+        "Machine Learning Engineer"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Github",
+        "type": "technology"
+      },
+      {
+        "name": "Pytest",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Visual Studio Code",
+        "type": "technology"
+      }
+    ],
+    "goodPractices": "Soy un firme defensor prácticas que nos han ayudado a entregar software más rápido y con más calidad: diseño simple, testing, refactoring, pair programmin, Integración y entrega continua. Pero también soy muy prágmático y sé cuando tengo que ser flexible para llegar antes al usuario, arreglar un problema en producción o validar una hipótesis de un caso de uso."
+  }
+}
