@@ -45,6 +45,41 @@
     "jobs": [
       {
         "organization": {
+          "name": "SEYSTIC",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/5fa1fae5-f20d-43e9-82d4-d43e76a61054_1711442594818.jpeg",
+            "alt": "1711442594818.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "De Analista Programdor a Arquitecto de aplicaciones",
+            "startDate": "2004-08-01",
+            "finishDate": "2010-06-01",
+            "challenges": [
+              {
+                "description": "Gestión del equipo técnico del proyecto, toma de requerimientos, análisis y diseño de las soluciones. \nDesarrollo y programación de GIS y sistemas empresariales con Microsoft .NET, ORACLE SPATIAL, soluciones Autodesk, soluciones Archibus FM, Gestión Documental y dispositivos móviles. \nSoporte en la preventa de proyectos, reuniones con los futuros clientes y desarrollo de prototipos."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "Autodesk",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Instituto municipal de informática de Barcelona",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/ba10430f-2ac4-47b2-9ff9-a95097c99ba0_logo.png",
