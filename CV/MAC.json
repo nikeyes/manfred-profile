@@ -726,6 +726,6 @@
         "type": "technology"
       }
     ],
-    "goodPractices": "Defiendo las prácticas que nos han ayudado a entregar software más rápido y con mayor calidad: \n- Diseño simple\n- Tests automatizados\n- Refactoring\n- Pair programming\n- Integración y entrega continua. \nPero también soy muy pragmático y sé cuando tengo que ser flexible para llegar antes al usuario, arreglar un problema en producción o validar una hipótesis de un caso de uso."
+    "goodPractices": "Defiendo las prácticas que nos han ayudado a entregar software más rápido y con mayor calidad: \n- Diseño simple\n- Tests automatizados\n- Refactoring\n- Pair programming\n- Integración y entrega continua. \nPero también soy muy pragmático y sé cuando tengo que ser flexible para llegar antes al usuario, arreglar un problema en producción o validar una hipótesis de un caso de uso.\n\n> “La tecnología es un siervo útil,\npero un amo peligroso” - Christian Lous Lange - Historiador noruego"
   }
 }
