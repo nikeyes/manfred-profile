@@ -220,6 +220,15 @@
           "URL": "https://twitter.com/nikey_es",
           "type": "twitter"
         }
+      ],
+      "contactMails": [
+        "nikey_es@yahoo.es"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "625232815",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
