@@ -504,6 +504,19 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Miembro desde hace más de 10 años de la Software Crafters Barcelona",
+          "description": "Siempre que he podido combinarlo con la familiar, he participado como ponente, facilitador o organizando charlas para apoyar a la comunidad.",
+          "URL": "https://www.meetup.com/es-ES/software-crafters-barcelona/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/dd1d94a8-4716-49a0-85ff-c825a1eb038b_highres_442914835.png",
+            "alt": "highres_442914835.png"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2014-11-01"
       }
     ]
   },
