@@ -41,6 +41,50 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Escola Universitaria Politecnica de Mataro (Tecnocampus)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/7c439d50-c753-4943-a046-e64091f1a740_1631330386539.jpeg",
+            "alt": "1631330386539.jpeg"
+          },
+          "URL": "https://www.tecnocampus.cat/es/escoles-superiors-del-tecnocampus/escola-superior-politecnica"
+        },
+        "roles": [
+          {
+            "name": "Programador",
+            "startDate": "2001-09-01",
+            "finishDate": "2003-02-01",
+            "challenges": [
+              {
+                "description": "Programador Delphi 6, PL-SQL y Visual Basic for Applications. \nDBA Junior ORACLE 8"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Delphi",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "PL/SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Basic",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
