@@ -55,7 +55,7 @@
           {
             "name": "Arquitecto de software",
             "startDate": "2014-03-01",
-            "finishDate": "2019-11-01",
+            "finishDate": "2019-03-01",
             "challenges": [
               {
                 "description": "- Definición, diseño y desarrollo de la arquitectura .Net del portal y el backoffice de habitaclia.com\n- Mantenimiento de aplicaciones históricas de la compañía.\n- Implantación de la gestión del ciclo de vida de las aplicaciones (ALM) basado en Team Foundation Server.\n- Desarrollando con tecnologías tan variadas como: VB6, ASP 3, Javascript, Browserify, Gulp, SQL Server, Google Maps API, Azure Service Bus, Dapper y el ecosistema .Net 4.5 (WebAPI, MVC, Task Parallel Library, Async Task).\n- Aplicación de buenas prácticas como principios SOLID, DDD (Domain Driven Design), inyección de dependencias e iniciando el camino del TDD (Test Driven Design). \n- Todo ello acompañado de metodologías ágiles."
