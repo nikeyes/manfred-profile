@@ -543,6 +543,18 @@
       },
       {
         "details": {
+          "name": "Mentor de perfiles senior para cambio de rol a ML",
+          "description": "Mentor de varias personas para hacer cambio de su rol actual a un rol de machine learning",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/25/1f3b711f-3df1-429a-9327-ceaeeaaa1484_mentoring.jpeg",
+            "alt": "mentoring.jpeg"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2022-01-01"
+      },
+      {
+        "details": {
           "name": "De desarrollador a manager",
           "description": "Artículo con 12 puntos a tener en cuenta cuando pasas de desarrollador a manager.\nSe publicó en el Podcast de Carlos Blé - Experiencias de un programador: https://youtu.be/tXylXIBvqbA?t=2143\ny en el blog de Adevinta: https://dev.to/adevintaspain/de-desarrollador-a-manager-cf3",
           "URL": "https://youtu.be/tXylXIBvqbA?t=2143",
