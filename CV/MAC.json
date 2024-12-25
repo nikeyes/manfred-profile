@@ -493,7 +493,11 @@
         "details": {
           "name": "Creador y profesor del Curso de GenAI para Adevinta",
           "description": "Junto a mis compañeros Youness Nadir y Eric Bellet, hemos desarrollado e impartido 6 sesiones formativas enfocadas en las necesidades específicas de Adevinta:\n\n1. Using GenAI in Adevinta:\n - How to use LLMs in local\n - How to use in Adevinta: Unicron Notebooks and Microservices\n - How to calculate costs\n2. Prompting best practices:\n - Basic Prompting\n - Tips for Claude\n - Use Cases Prompting\n - Advanced Prompting\n - Function Calling\n3. GenAI Tooling:\n - Langchain\n - RAG\n - Vector Databases\n - Agents\n4. Security and Risks\n - Multimodal Security\n - Prompting Attack/Defense\n - Other Attacks\n - Test your prompt security\n - Points to protect your LLM Application",
-          "URL": "https://www.linkedin.com/posts/jorge-castro-nistal_generativeai-generativeai-adevintans-activity-7241830536858505219-Jw4o"
+          "URL": "https://www.linkedin.com/posts/jorge-castro-nistal_generativeai-generativeai-adevintans-activity-7241830536858505219-Jw4o",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/25/1cf36dcb-1592-49ea-87d6-2ec8cea13e8b_raginbot-1.jpeg",
+            "alt": "raginbot 1.jpeg"
+          }
         },
         "type": "achievement",
         "publishingDate": "2024-05-01"
