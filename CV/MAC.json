@@ -523,6 +523,19 @@
       },
       {
         "details": {
+          "name": "Creación del reto IA para el Master in Data Analytics for Business - UPF Barcelona School of Management ",
+          "description": "Creación del reto de IA para los alumnos del master.\nLos alumnos tuvieron que usar Machine Learning para resolver un reto con datos de Fotocasa y presentar su trabajo en las oficinas de Adevinta.\n\nhttps://www.bsm.upf.edu/en/master-data-analytics-business",
+          "URL": "https://www.linkedin.com/posts/freireana_dataanalytics-innovaciaejn-python-activity-7186394103989846017-d9zx/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/25/5b8c646b-a91b-4021-bc04-15165da800e5_reto.jpeg",
+            "alt": "reto.jpeg"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2024-04-01"
+      },
+      {
+        "details": {
           "name": "Ganador del Adevinta Ingnite 2023",
           "description": "Ganador del premio embajador de Adevinta en la edición 2023 por mi contribución mentorizando a muchos de mis compañeros y compañeras y difundir la marca Adevinta.",
           "URL": "https://adevinta.com/stories/articles/ignite-and-the-adevinta-awards/",
