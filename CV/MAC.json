@@ -549,6 +549,18 @@
       },
       {
         "details": {
+          "name": "Evolución de los perfiles Data para IT Academy - Barcelona Activa",
+          "description": "Charla para la dirección de la IT Academy de Barcelona activa para explicar como están cambiando los perfiles \"Data\" en el mercado laboral y como pueden adaptar su temario para ayudar a que haya menos salto de los estudios al mundo laboral.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/25/53ac5f65-0bba-4782-b692-764c0d44f187_data_profiles.png",
+            "alt": "data_profiles.png"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2023-10-01"
+      },
+      {
+        "details": {
           "name": "Ganador del Adevinta Ingnite 2023",
           "description": "Ganador del premio embajador de Adevinta en la edición 2023 por mi contribución mentorizando a muchos de mis compañeros y compañeras y difundir la marca Adevinta.",
           "URL": "https://adevinta.com/stories/articles/ignite-and-the-adevinta-awards/",
