@@ -549,6 +549,19 @@
       },
       {
         "details": {
+          "name": "Cómo seguir aprendiendo con familia numerosa",
+          "description": "2 artículos que naces del Open Space de la Barcelona Software Crafters de 2022 dónde estuve hablando Cómo seguir aprendiendo si tienes trabajo, familia u otras responsabilidades.\n\n- [Cómo me organizo con trabajo y familia numerosa](https://nikeyes.github.io/como-me-organizo-con-trabajo-y-familia-numerosa/)\n    \n- [Cómo sigo aprendiendo con trabajo y familia numerosa](https://nikeyes.github.io/como-sigo-aprendiendo-con-trabajo-y-familia-numerosa/)",
+          "URL": "https://nikeyes.github.io/como-sigo-aprendiendo-con-trabajo-y-familia-numerosa/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/25/c60a8ecb-1baf-4c1f-847c-5f79f9c2d6dd_img-20221022-wa0021-.jpg",
+            "alt": "IMG-20221022-WA0021 1.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2022-12-01"
+      },
+      {
+        "details": {
           "name": "Mentoría y charla: Ya sé Machine Learning pero... ¿estoy preparada para el mundo real?",
           "description": "Charla que nace de una mentoria a mi compañera Elena para mejorar su confianza, eliminar el síndrome del impostor y mejorar sus habilidades comunicativas.\nEsta charla fue el final de la mentoría y la dimos en:\n- Adevinta\n- Software Crafters Barcelona\n- Codemotion \n- DevBCN",
           "image": {
