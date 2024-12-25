@@ -536,6 +536,19 @@
       },
       {
         "details": {
+          "name": "Mentoría para dar su primera charla - Charla para IT Academy - Barcelona Activa",
+          "description": "Mentoria a una compañera para dar su primera charla.\nCreamos una charla y un workshop para ayudar a los alumnos de la especialización de Data Science de la IT Academy de Barcelona Activa para ver las diferencias entre estudiar y trabajar y como enfrentarse a su primer trabajo.\n",
+          "URL": "https://www.linkedin.com/posts/it-academy-barcelonactiva_itacademy-datascience-workshop-activity-7128365594176815104-oudT",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/25/216d6faf-80e9-4d7f-af8d-605a863dacc2_barcelonaactiva-1.jpeg",
+            "alt": "barcelonaActiva 1.jpeg"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2023-11-01"
+      },
+      {
+        "details": {
           "name": "Ganador del Adevinta Ingnite 2023",
           "description": "Ganador del premio embajador de Adevinta en la edición 2023 por mi contribución mentorizando a muchos de mis compañeros y compañeras y difundir la marca Adevinta.",
           "URL": "https://adevinta.com/stories/articles/ignite-and-the-adevinta-awards/",
