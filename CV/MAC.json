@@ -485,7 +485,7 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "AWS Summit 2024",
+          "name": "Ponente en el AWS Summit 2024",
           "description": "Ponente en el AWS summit de Madrid para explicar como usamos la IA Generativa en Adevinta",
           "URL": "https://www.linkedin.com/posts/igsalvar_aws-generativeai-madridsummit2024-ugcPost-7204525828997550080-raP1/",
           "image": {
@@ -494,13 +494,7 @@
           }
         },
         "type": "talk",
-        "publishingDate": "2024-06-01",
-        "relatedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          }
-        ]
+        "publishingDate": "2024-06-01"
       },
       {
         "details": {
