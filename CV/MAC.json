@@ -866,6 +866,12 @@
           "name": "Liderazgo",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Resistencia a la frustración",
+          "type": "practice"
+        }
       }
     ]
   },
