@@ -511,6 +511,19 @@
       },
       {
         "details": {
+          "name": "Ganador del Adevinta Ingnite 2024",
+          "description": "Ganador del premio embajador de Adevinta en la edición 2023 por mi contribución mentorizando a muchos de mis compañeros y compañeras y difundir la marca Adevinta.",
+          "URL": "https://adevinta.com/stories/articles/ignite-and-the-adevinta-awards/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/931009f9-e3be-476b-8cf7-37a958c3101a_copie-de-finca-mas-s.jpg",
+            "alt": "Copie de Finca Mas Solers R62_9277 1.jpg"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2024-05-01"
+      },
+      {
+        "details": {
           "name": "Creación del reto IA para el Master in Data Analytics for Business - UPF Barcelona School of Management ",
           "description": "Creación del reto de IA para los alumnos del master.\nLos alumnos tuvieron que usar Machine Learning para resolver un reto con datos de Fotocasa y presentar su trabajo en las oficinas de Adevinta.\n\nhttps://www.bsm.upf.edu/en/master-data-analytics-business",
           "URL": "https://www.linkedin.com/posts/freireana_dataanalytics-innovaciaejn-python-activity-7186394103989846017-d9zx/",
@@ -546,19 +559,6 @@
         },
         "type": "talk",
         "publishingDate": "2023-10-01"
-      },
-      {
-        "details": {
-          "name": "Ganador del Adevinta Ingnite 2023",
-          "description": "Ganador del premio embajador de Adevinta en la edición 2023 por mi contribución mentorizando a muchos de mis compañeros y compañeras y difundir la marca Adevinta.",
-          "URL": "https://adevinta.com/stories/articles/ignite-and-the-adevinta-awards/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/931009f9-e3be-476b-8cf7-37a958c3101a_copie-de-finca-mas-s.jpg",
-            "alt": "Copie de Finca Mas Solers R62_9277 1.jpg"
-          }
-        },
-        "type": "achievement",
-        "publishingDate": "2023-06-01"
       },
       {
         "details": {
