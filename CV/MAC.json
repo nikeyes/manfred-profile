@@ -603,8 +603,8 @@
       },
       {
         "details": {
-          "name": "Mentor de perfiles senior para cambio de rol a ML",
-          "description": "Mentor de varias personas para hacer cambio de su rol actual a un rol de machine learning",
+          "name": "Mentor de perfiles senior para cambio de rol a Machine Learning Engineer",
+          "description": "Mentor de varias personas para hacer el cambio de su rol a un rol de machine learning engineer",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/25/1f3b711f-3df1-429a-9327-ceaeeaaa1484_mentoring.jpeg",
             "alt": "mentoring.jpeg"
