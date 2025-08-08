@@ -743,6 +743,12 @@
       },
       {
         "skill": {
+          "name": "Claude Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Databricks",
           "type": "technology"
         }
@@ -756,6 +762,18 @@
       {
         "skill": {
           "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitHub Actions",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitHub Copilot",
           "type": "technology"
         }
       },
