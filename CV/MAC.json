@@ -45,6 +45,49 @@
     "jobs": [
       {
         "organization": {
+          "name": "Kleinanzeigen",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/08/08/e5f546cb-2766-496a-b3d9-45da2c4019f8_logo-kleinanzeigen-h.svg",
+            "alt": "logo-kleinanzeigen-horizontal.svg"
+          },
+          "URL": "https://www.kleinanzeigen.de/"
+        },
+        "roles": [
+          {
+            "name": "AI Enabler",
+            "startDate": "2025-07-01",
+            "challenges": [
+              {
+                "description": "Ayudo a las personas, equipos y toda la organizaciones a implementar y maximizar el potencial de la **Inteligencia Artificial**."
+              }
+            ],
+            "competences": [
+              {
+                "name": "ChatGPT",
+                "type": "technology"
+              },
+              {
+                "name": "Claude Code",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Adevinta",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/dcbe41f9-1ca8-4880-b73a-f4d8f5c708f4_adevintaspain_logo.jpeg",
