@@ -604,6 +604,15 @@
       },
       {
         "details": {
+          "name": "Tu CLAUDE.md no funciona (sin Context Engineering)",
+          "description": "Por qué Claude Code acaba ignorando tu CLAUDE.md al cabo de un rato: el problema no son tus reglas, es el contexto. La ventana de contexto no es la ventana de atención, y a partir del 60% la calidad cae.\n\nExplico el flujo **Research → Plan → Implement → Validate**, con `/clear` entre fases y el conocimiento guardado en ficheros, y cómo lo automaticé en [stepwise-dev](https://github.com/nikeyes/stepwise-dev).",
+          "URL": "https://nikeyes.github.io/tu-claude-md-no-funciona-sin-context-engineering-es/"
+        },
+        "type": "post",
+        "publishingDate": "2025-11-01"
+      },
+      {
+        "details": {
           "name": "Ponente en DAMA Talks Barcelona 2025: ciberseguridad e IA generativa",
           "description": "Ponente en el DAMA Talks de DAMA España sobre ciberseguridad y seguridad del dato en la era de la IA generativa, en las oficinas de T-Systems Iberia en Barcelona.\n\nHicimos demos en directo para explicar los riesgos de seguridad de las aplicaciones con LLMs y de cómo protegerlas.",
           "URL": "https://www.linkedin.com/feed/update/urn:li:activity:7356224557638180865/",
