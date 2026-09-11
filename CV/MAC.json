@@ -549,6 +549,37 @@
       },
       {
         "details": {
+          "name": "Ponente en Commit Conf 2025: Hackea y protege tus aplicaciones de GenAI",
+          "description": "Charla con Alejandro Bustamante sobre seguridad en aplicaciones de IA generativa: cómo se atacan y qué defensas funcionan de verdad.\n\nHicimos una demo en directo con un chatbot protegido. El código está publicado en GitHub.\n\n- [Vídeo](https://www.youtube.com/watch?v=FHckzoXfs9k)\n- [Slides](https://bit.ly/slides-genai-security)\n- [Código de la demo](https://github.com/nikeyes/genai-security-demo)",
+          "URL": "https://www.youtube.com/watch?v=FHckzoXfs9k",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/8ae181c6-80d8-4c74-900e-a9f5c380d6ea_commitconf.jpeg",
+            "alt": "commitconf.jpeg"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2025-04-01",
+        "relatedCompetences": [
+          {
+            "name": "Claude Code",
+            "type": "technology"
+          },
+          {
+            "name": "Codex (Open AI)",
+            "type": "technology"
+          },
+          {
+            "name": "Gemini AI",
+            "type": "technology"
+          },
+          {
+            "name": "LlamaIndex",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Ponente en el AWS Summit 2024",
           "description": "Ponente en el AWS summit de Madrid para explicar cómo usamos la IA Generativa en Adevinta",
           "URL": "https://www.linkedin.com/posts/igsalvar_aws-generativeai-madridsummit2024-ugcPost-7204525828997550080-raP1/",
