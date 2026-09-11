@@ -612,7 +612,11 @@
         "details": {
           "name": "Tu CLAUDE.md no funciona (sin Context Engineering)",
           "description": "Por qué Claude Code acaba ignorando tu CLAUDE.md al cabo de un rato: el problema no son tus reglas, es el contexto. La ventana de contexto no es la ventana de atención, y a partir del 60% la calidad cae.\n\nExplico el flujo **Research → Plan → Implement → Validate**, con `/clear` entre fases y el conocimiento guardado en ficheros, y cómo lo automaticé en [stepwise-dev](https://github.com/nikeyes/stepwise-dev).",
-          "URL": "https://nikeyes.github.io/tu-claude-md-no-funciona-sin-context-engineering-es/"
+          "URL": "https://nikeyes.github.io/tu-claude-md-no-funciona-sin-context-engineering-es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/2d54ca4b-2bee-4f92-99b0-af23ae251259_01_free_context.png",
+            "alt": "01_free_context.png"
+          }
         },
         "type": "post",
         "publishingDate": "2025-11-01",
