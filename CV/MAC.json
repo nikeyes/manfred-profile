@@ -549,6 +549,37 @@
       },
       {
         "details": {
+          "name": "Ponente en DAMA Talks Barcelona 2025: ciberseguridad e IA generativa",
+          "description": "Ponente en el DAMA Talks de DAMA España sobre ciberseguridad y seguridad del dato en la era de la IA generativa, en las oficinas de T-Systems Iberia en Barcelona.\n\nHicimos demos en directo para explicar los riesgos de seguridad de las aplicaciones con LLMs y de cómo protegerlas.",
+          "URL": "https://www.linkedin.com/feed/update/urn:li:activity:7356224557638180865/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/9fcb0935-902b-4bbb-b48c-4f1048be7360_dama_talks.jpg",
+            "alt": "dama_talks.jpg"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2025-10-01",
+        "relatedCompetences": [
+          {
+            "name": "Claude Code",
+            "type": "technology"
+          },
+          {
+            "name": "Gemini AI",
+            "type": "technology"
+          },
+          {
+            "name": "LlamaIndex",
+            "type": "technology"
+          },
+          {
+            "name": "Ollama",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Ponente en Commit Conf 2025: Hackea y protege tus aplicaciones de GenAI",
           "description": "Charla con Alejandro Bustamante sobre seguridad en aplicaciones de IA generativa: cómo se atacan y qué defensas funcionan de verdad.\n\nHicimos una demo en directo con un chatbot protegido. El código está publicado en GitHub.\n\n- [Vídeo](https://www.youtube.com/watch?v=FHckzoXfs9k)\n- [Slides](https://bit.ly/slides-genai-security)\n- [Código de la demo](https://github.com/nikeyes/genai-security-demo)",
           "URL": "https://www.youtube.com/watch?v=FHckzoXfs9k",
