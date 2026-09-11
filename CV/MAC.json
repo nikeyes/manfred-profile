@@ -557,6 +557,15 @@
       },
       {
         "details": {
+          "name": "Me fío de mis skills porque tienen evals",
+          "description": "Hay cientos de skills para Claude Code, pero yo uso muy pocas: solo las que demuestran que aportan algo más de lo que el modelo ya hace por defecto.\n\nCuento cómo las mido con el framework de evaluación de skill-creator: la misma tarea con y sin la skill, comparando pass rate, tokens y tiempo en cada iteración.\n\n**Las evals son los tests de tus skills.** Sin ellas no sabes si funcionan: solo crees que funcionan.",
+          "URL": "https://nikeyes.github.io/me-fio-de-mis-skills-porque-tienen-evals-es/"
+        },
+        "type": "post",
+        "publishingDate": "2026-04-01"
+      },
+      {
+        "details": {
           "name": "Charla y workshop: Desarrollo con IA - Descubriendo mejores formas de desarrollar",
           "description": "Charla y workshop práctico sobre desarrollo de software asistido por IA, impartidos en Wallbox, Adevinta y Kleinanzeigen.\n\nLa charla parte del estudio de METR, en el que developers senior creían ir un 20% más rápido con IA y en realidad iban un 19% más lento. La idea central: el problema no es la IA, es cómo la usamos. Explico con ejemplos prácticos como uso la IA en mi día a día para desarrollar.\n\nEn el workshop cada persona trabaja con Claude Code sobre su propio repo y un ticket real: CLAUDE.md y contexto, permisos, hooks como guardarraíles, skills, subagentes y plugins.\n\n[Material y slides](https://github.com/nikeyes/ai-dev-workshop)",
           "URL": "https://github.com/nikeyes/ai-dev-workshop",
