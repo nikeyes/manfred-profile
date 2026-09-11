@@ -942,6 +942,30 @@
       },
       {
         "skill": {
+          "name": "LangGraph",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "LlamaIndex",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ollama",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenApi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Pandas",
           "type": "technology"
         }
@@ -979,6 +1003,12 @@
       {
         "skill": {
           "name": "TensorFlow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
           "type": "technology"
         }
       },
