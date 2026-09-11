@@ -557,8 +557,8 @@
           "description": "Charla y workshop práctico sobre desarrollo de software asistido por IA, impartidos en Wallbox, Adevinta y Kleinanzeigen.\n\nLa charla parte del estudio de METR, en el que developers senior creían ir un 20% más rápido con IA y en realidad iban un 19% más lento. La idea central: el problema no es la IA, es cómo la usamos. Explico con ejemplos prácticos como uso la IA en mi día a día para desarrollar.\n\nEn el workshop cada persona trabaja con Claude Code sobre su propio repo y un ticket real: CLAUDE.md y contexto, permisos, hooks como guardarraíles, skills, subagentes y plugins.\n\n[Material y slides](https://github.com/nikeyes/ai-dev-workshop)",
           "URL": "https://github.com/nikeyes/ai-dev-workshop",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/9c08a3b5-2c92-4d45-afe5-d05fb02d316e_uncovering_better_wa.png",
-            "alt": "Uncovering_better_ways_of_developing.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/5c109986-169c-488c-ae8f-02c07c418b9e_ai-dev-workshop-cove.png",
+            "alt": "ai-dev-workshop-cover.png"
           }
         },
         "type": "talk",
