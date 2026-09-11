@@ -591,25 +591,6 @@
       },
       {
         "details": {
-          "name": "Ponente en Datadog Live Madrid 2025",
-          "description": "Conté cómo monitorizamos cada día todos nuestros sistemas, tanto software clásico como IA, y cómo usamos Datadog para detectar problemas antes de que afecten a los usuarios, en lugar de enterarnos cuando algo ya ha fallado.",
-          "URL": "https://www.linkedin.com/feed/update/urn:li:share:7292447146031697920/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/35e8df2b-6ecd-41db-a5f4-d00fbe1e97df_datadog-day-madrid.jpg",
-            "alt": "datadog-day-madrid.jpg"
-          }
-        },
-        "type": "talk",
-        "publishingDate": "2026-02-01",
-        "relatedCompetences": [
-          {
-            "name": "Datadog",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Tu CLAUDE.md no funciona (sin Context Engineering)",
           "description": "Por qué Claude Code acaba ignorando tu CLAUDE.md al cabo de un rato: el problema no son tus reglas, es el contexto. La ventana de contexto no es la ventana de atención, y a partir del 60% la calidad cae.\n\nExplico el flujo **Research → Plan → Implement → Validate**, con `/clear` entre fases y el conocimiento guardado en ficheros, y cómo lo automaticé en [stepwise-dev](https://github.com/nikeyes/stepwise-dev).",
           "URL": "https://nikeyes.github.io/tu-claude-md-no-funciona-sin-context-engineering-es/",
@@ -700,6 +681,25 @@
           },
           {
             "name": "LlamaIndex",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Ponente en Datadog Live Madrid 2025",
+          "description": "Conté cómo monitorizamos cada día todos nuestros sistemas, tanto software clásico como IA, y cómo usamos Datadog para detectar problemas antes de que afecten a los usuarios, en lugar de enterarnos cuando algo ya ha fallado.",
+          "URL": "https://www.linkedin.com/feed/update/urn:li:share:7292447146031697920/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/35e8df2b-6ecd-41db-a5f4-d00fbe1e97df_datadog-day-madrid.jpg",
+            "alt": "datadog-day-madrid.jpg"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2025-02-01",
+        "relatedCompetences": [
+          {
+            "name": "Datadog",
             "type": "technology"
           }
         ]
