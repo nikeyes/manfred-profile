@@ -668,11 +668,7 @@
         "details": {
           "name": "Creador y profesor del Curso de GenAI para Adevinta",
           "description": "Junto a mis compañeros Youness Nadir y Eric Bellet, hemos desarrollado e impartido 6 sesiones formativas enfocadas en las necesidades específicas de Adevinta:\n\n1. Using GenAI in Adevinta:\n2. Prompting best practices:\n3. GenAI Tooling:\n4. Security and Risks\n",
-          "URL": "https://www.linkedin.com/posts/jorge-castro-nistal_generativeai-generativeai-adevintans-activity-7241830536858505219-Jw4o",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/27/d1861066-8ad3-49bd-bc32-8c3302befef0_genai_training_large.png",
-            "alt": "genai_training_large.png"
-          }
+          "URL": "https://www.linkedin.com/posts/jorge-castro-nistal_generativeai-generativeai-adevintans-activity-7241830536858505219-Jw4o"
         },
         "type": "achievement",
         "publishingDate": "2024-05-01"
