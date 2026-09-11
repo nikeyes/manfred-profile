@@ -530,6 +530,29 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Ponente en AWS Summit Madrid 2026: Mejora tu productividad con Claude Code en Amazon Bedrock",
+          "description": "Presenté el caso real de Kleinanzeigen:\n- De 0 a 350 personas usando Claude Code.\n- 340 repositorios migrados a Java 25 de forma autónoma.\n- Un revisor de PRs con reglas propias.\n- Governance con Bedrock y métricas de impacto, no solo de uso.\n\nY lo más importante: Todo lo que no nos está funcionando. 😅",
+          "URL": "https://lnkd.in/p/eEA3Fgem",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/e6542c95-6348-469f-b907-7ee49f92672e_aws-summit.jpg",
+            "alt": "AWS-summit.jpg"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2026-06-01",
+        "relatedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "Claude Code",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Charla y workshop: Desarrollo con IA - Descubriendo mejores formas de desarrollar",
           "description": "Charla y workshop práctico sobre desarrollo de software asistido por IA, impartidos en Wallbox, Adevinta y Kleinanzeigen.\n\nLa charla parte del estudio de METR, en el que developers senior creían ir un 20% más rápido con IA y en realidad iban un 19% más lento. La idea central: el problema no es la IA, es cómo la usamos. Explico con ejemplos prácticos como uso la IA en mi día a día para desarrollar.\n\nEn el workshop cada persona trabaja con Claude Code sobre su propio repo y un ticket real: CLAUDE.md y contexto, permisos, hooks como guardarraíles, skills, subagentes y plugins.\n\n[Material y slides](https://github.com/nikeyes/ai-dev-workshop)",
           "URL": "https://github.com/nikeyes/ai-dev-workshop"
