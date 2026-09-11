@@ -58,7 +58,7 @@
             "startDate": "2025-07-01",
             "challenges": [
               {
-                "description": "Ayudo a las personas, equipos y toda la organización a implementar y maximizar el potencial de la **Inteligencia Artificial**."
+                "description": "Mi papel es habilitar: trabajo junto a los equipos para que lleguen más lejos con IA, no para hacerlo por ellos.\n\n- Junto con el equipo de producto, diseñamos y llevamos a producción un agente de IA para vendedores profesionales, con observabilidad y con fases de escalado para minimizar riesgos.\n- Ayudé a los equipos de anuncios y de atención al cliente a poner en producción la creación de anuncios asistida por IA y la clasificación automática de tickets con AWS Bedrock y Spring AI, siempre buscando el equilibrio entre calidad y coste.\n- Habilitamos AWS Bedrock para toda la organización, con control de accesos, observabilidad y trazabilidad de costes.\n- Ayudé a introducir Python en backend para casos de IA, en una compañía con Java como estándar, junto a los equipos de plataforma, DevEx, seguridad y SRE.\n- Acompaño a equipos no técnicos (Sales, Marketing, Advertising, Operaciones, RRHH) para que incorporen la IA y ganen autonomía en su día a día.\n- Formo a equipos de ingeniería en desarrollo asistido por IA y en cómo construir productos con GenAI.\n- Ayudé a que pasáramos de 0 a 350 personas usando Claude Code y Claude Cowork.\n"
               }
             ],
             "competences": [
@@ -68,6 +68,10 @@
               },
               {
                 "name": "Claude Code",
+                "type": "technology"
+              },
+              {
+                "name": "Gemini AI",
                 "type": "technology"
               },
               {
