@@ -534,8 +534,8 @@
           "description": "Presenté el caso real de Kleinanzeigen:\n- De 0 a 350 personas usando Claude Code.\n- 340 repositorios migrados a Java 25 de forma autónoma.\n- Un revisor de PRs con reglas propias.\n- Governance con Bedrock y métricas de impacto, no solo de uso.\n\nY lo más importante: Todo lo que no nos está funcionando. 😅",
           "URL": "https://lnkd.in/p/eEA3Fgem",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/e6542c95-6348-469f-b907-7ee49f92672e_aws-summit.jpg",
-            "alt": "AWS-summit.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/574932c7-f7ba-4236-8a3a-5749a3a16523_aws-summit-cover.png",
+            "alt": "aws-summit-cover.png"
           }
         },
         "type": "talk",
