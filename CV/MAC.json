@@ -616,7 +616,11 @@
         "details": {
           "name": "stepwise-dev: flujo de desarrollo para Claude Code",
           "description": "Plugins open source para Claude Code, que también funcionan con Codex, para mantener el contexto bajo control con un flujo **Research -> Plan -> Implement -> Validate**: /clear entre fases y todo lo investigado y planificado guardado en ficheros, para no perderlo.\n\nIncluye skills de buenas prácticas como TDD, small safe steps, story splitting o el método hamburguesa, y un sistema de investigación con varios agentes.\n\nLas skills principales tienen **evals** para comprobar que aportan algo más de lo que el modelo ya hace solo.",
-          "URL": "https://github.com/nikeyes/stepwise-dev"
+          "URL": "https://github.com/nikeyes/stepwise-dev",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/05dcb3eb-1a4c-43b3-8bf2-96453cbb61d5_stepwisedev.png",
+            "alt": "stepwisedev.png"
+          }
         },
         "type": "post",
         "publishingDate": "2025-11-01",
