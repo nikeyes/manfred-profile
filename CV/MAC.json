@@ -646,7 +646,11 @@
         "details": {
           "name": "Cómo ser del 5% que sí genera valor con IA generativa",
           "description": "El 95% de los proyectos de IA generativa fracasan. En este artículo cuento qué hace diferente al 5% restante.\n\n- **Antes de empezar:** cuándo tiene sentido usar IA y cuándo basta con un if/else.\n- **Los errores más comunes:** POC tras POC sin llegar a producción, \"ya optimizaremos después\" y no especializar la IA en tu dominio.\n- **Cómo hacerlo bien:** métricas de negocio desde el día 1, observabilidad y evals, arquitectura simple, costes bajo control y precisión donde importa.\n\nCon casos reales como Lumen, Vodafone o LawGeex.",
-          "URL": "https://nikeyes.github.io/como-ser-el-5-por-ciento-que-si-generan-valor-con-IA-generativa-es/"
+          "URL": "https://nikeyes.github.io/como-ser-el-5-por-ciento-que-si-generan-valor-con-IA-generativa-es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/3949aa4a-587e-4570-85c3-d87c9b328bf7_5percent-(1)-(1)-(2).jpg",
+            "alt": "5percent (1) (1) (2).jpg"
+          }
         },
         "type": "post",
         "publishingDate": "2025-10-01",
