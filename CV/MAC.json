@@ -949,12 +949,6 @@
       },
       {
         "skill": {
-          "name": "GitHub Actions",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "GitHub Copilot",
           "type": "technology"
         }
