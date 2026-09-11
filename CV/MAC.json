@@ -615,7 +615,13 @@
           "URL": "https://nikeyes.github.io/tu-claude-md-no-funciona-sin-context-engineering-es/"
         },
         "type": "post",
-        "publishingDate": "2025-11-01"
+        "publishingDate": "2025-11-01",
+        "relatedCompetences": [
+          {
+            "name": "Claude Code",
+            "type": "technology"
+          }
+        ]
       },
       {
         "details": {
