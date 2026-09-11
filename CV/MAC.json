@@ -9,7 +9,7 @@
       "name": "Jorge",
       "surnames": "Castro Nistal",
       "title": "Marido y padre de 4 dragones. Me relajo y descanso cada día desarrollando en Adevinta",
-      "description": "¡Hola! \n\nMe dedico al desarrollo de software y al aprendizaje automático.\n\nMi mi **mayor reto es criar a mis cuatro hijos** y mi pasión crear soluciones que ayuden a la gente.\n\nMe adapto rápido al cambio y facilito que otras personas lo hagan conmigo.\n\nAunque tengo experiencia gestionando equipos y proyectos, prefiero enfocarme en la parte técnica.\n\nMe gusta el **trabajo en equipo**  porque me permite alcanzar metas más ambiciosas y generar un **mayo impacto**, pero puedo trabajar solo, obteniendo **resultados rápidos y efectivos**.\n\nA lo largo de más de 20 años de carrera profesional he trabajado con grandes organizaciones como:  \n**Adevinta** (Fotocasa, Habitaclia, Infojobs, Coches.net, Milanuncios), **Vueling**, **Siemens**, **Ajuntament de Barcelona**, **Generalitat de Catalunya**, **ENDESA**, **AENA**, **Andorra Telecom**, y **Àrea Metropolitana de Barcelona**.\n\nLo más enriquecedor ha sido **resolver problemas reales**:\n\n- Ayudar a encontrar el hogar o trabajo de sus sueños.\n- Llevar fibra óptica a todos los hogares de un país.\n- Facilitar recursos a ganaderos para impulsar sus actividades.\n- Incentivar hábitos saludables como aumentar el consumo de fruta en los niños.\n\nNo soy un especialista en un área específica, pero tengo experiencia en **todo el ciclo de desarrollo de software**, desde software tradicional hasta proyectos de **Machines Learning**. \n\nEn los últimos dos años he ayudado a crear  **productos con IA Generativa** desde la idea hasta producción (y algunos que se quedaron por el camino… 😅).\n\nLa mayor parte de mi carrera he trabajado con el stack de tecnologías Microsoft. Luego pasé de odiar Javascript a amarlo incondicionalmente.\nY en mis últimas aventuras como machine learning engineer he descubierto las bondades de Python, Kubeflow, Databricks, AWS y Kubernetes.\n\nSi has llegado hasta aquí, ¿por qué no te animas a contactarme? Podríamos conocernos y puede que sea la persona que estabas buscando. 🤗",
+      "description": "¡Hola! \n\nMe dedico al desarrollo de software y al aprendizaje automático.\n\nMi **mayor reto es criar a mis cuatro hijos** y mi pasión crear soluciones que ayuden a la gente.\n\nMe adapto rápido al cambio y facilito que otras personas lo hagan conmigo.\n\nAunque tengo experiencia gestionando equipos y proyectos, prefiero enfocarme en la parte técnica.\n\nMe gusta el **trabajo en equipo**  porque me permite alcanzar metas más ambiciosas y generar un **mayor impacto**, pero puedo trabajar solo, obteniendo **resultados rápidos y efectivos**.\n\nA lo largo de más de 20 años de carrera profesional he trabajado con grandes organizaciones como:  \n**Adevinta** (Fotocasa, Habitaclia, Infojobs, Coches.net, Milanuncios), **Vueling**, **Siemens**, **Ajuntament de Barcelona**, **Generalitat de Catalunya**, **ENDESA**, **AENA**, **Andorra Telecom**, y **Àrea Metropolitana de Barcelona**.\n\nLo más enriquecedor ha sido **resolver problemas reales**:\n\n- Ayudar a encontrar el hogar o trabajo de sus sueños.\n- Llevar fibra óptica a todos los hogares de un país.\n- Facilitar recursos a ganaderos para impulsar sus actividades.\n- Incentivar hábitos saludables como aumentar el consumo de fruta en los niños.\n\nNo soy un especialista en un área específica, pero tengo experiencia en **todo el ciclo de desarrollo de software**, desde software tradicional hasta proyectos de **Machine Learning**. \n\nEn los últimos dos años he ayudado a crear  **productos con IA Generativa** desde la idea hasta producción (y algunos que se quedaron por el camino… 😅).\n\nLa mayor parte de mi carrera he trabajado con el stack de tecnologías Microsoft. Luego pasé de odiar Javascript a amarlo incondicionalmente.\nY en mis últimas aventuras como machine learning engineer he descubierto las bondades de Python, Kubeflow, Databricks, AWS y Kubernetes.\n\nSi has llegado hasta aquí, ¿por qué no te animas a contactarme? Podríamos conocernos y puede que sea la persona que estabas buscando. 🤗",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/4b9582e8-e46f-44b9-9c0f-edd101fb155e_foto_linkedin.jpeg",
         "alt": "Foto_Linkedin.jpeg"
@@ -58,7 +58,7 @@
             "startDate": "2025-07-01",
             "challenges": [
               {
-                "description": "Ayudo a las personas, equipos y toda la organizaciones a implementar y maximizar el potencial de la **Inteligencia Artificial**."
+                "description": "Ayudo a las personas, equipos y toda la organización a implementar y maximizar el potencial de la **Inteligencia Artificial**."
               }
             ],
             "competences": [
@@ -102,7 +102,7 @@
             "finishDate": "2025-05-01",
             "challenges": [
               {
-                "description": "- Contribuyo en el **desarrollo end-to-end de modelos de machine learning** que ayuden a nuestros equipos de producto.\n- Creo **herramientas para nuestra Machine Learning Platform** para acelerar el día a día de nuestros Data Scientists.\n- Enriquezco el desarrollo de modelos de machine learning con buenas prácticas del desarrollo de software para **hacer productos mantenibles y escalables** a largo plazo.\n- Soy **puente de unión entre DataScientits, SRE's y Backends** para conseguir aprovechar el potencial de machine learning en nuestros equipos\n- Gestiono el ciclo de vida de nuestros proyectos de machine learning usando la filosofía **MLOps**\n- En los últimos 2 años he impulsado el uso de **IA Generativa** dentro de Adevinta, tanto desarrollado proyectos como formando a equipos de producto."
+                "description": "- Contribuyo en el **desarrollo end-to-end de modelos de machine learning** que ayuden a nuestros equipos de producto.\n- Creo **herramientas para nuestra Machine Learning Platform** para acelerar el día a día de nuestros Data Scientists.\n- Enriquezco el desarrollo de modelos de machine learning con buenas prácticas del desarrollo de software para **hacer productos mantenibles y escalables** a largo plazo.\n- Soy **puente de unión entre Data Scientists, SRE's y Backends** para conseguir aprovechar el potencial de machine learning en nuestros equipos\n- Gestiono el ciclo de vida de nuestros proyectos de machine learning usando la filosofía **MLOps**\n- En los últimos 2 años he impulsado el uso de **IA Generativa** dentro de Adevinta, tanto desarrollado proyectos como formando a equipos de producto."
               }
             ],
             "competences": [
@@ -218,7 +218,7 @@
             "finishDate": "2020-01-01",
             "challenges": [
               {
-                "description": "- Formaba parte del equipo de Real Estate de Adevinta Spain (Fotocasa y Habitaclia)\n- Desarrollaba y facilitaba la creación nuevas funcionalidades para nuestros portales.\n- Creaba herramientas y procesos para facilitar el desarrollo al resto de equipos de Adevinta Spain.\n- Gestionaba el ciclo de vida de las aplicaciones (ALM) basado en Github\n- Trabajaba con tecnologías como: .Net (WebAPI, MVC, Task Parallel Library, Async Task), Dapper, ES6, Powershell, Python.\n- Cada día trabajaba con OKRs, Lean Startup y Agile junto a los equipos de producto."
+                "description": "- Formaba parte del equipo de Real Estate de Adevinta Spain (Fotocasa y Habitaclia)\n- Desarrollaba y facilitaba la creación de nuevas funcionalidades para nuestros portales.\n- Creaba herramientas y procesos para facilitar el desarrollo al resto de equipos de Adevinta Spain.\n- Gestionaba el ciclo de vida de las aplicaciones (ALM) basado en Github\n- Trabajaba con tecnologías como: .Net (WebAPI, MVC, Task Parallel Library, Async Task), Dapper, ES6, Powershell, Python.\n- Cada día trabajaba con OKRs, Lean Startup y Agile junto a los equipos de producto."
               }
             ],
             "competences": [
@@ -328,7 +328,7 @@
             "finishDate": "2014-02-01",
             "challenges": [
               {
-                "description": "- Arquitecto y jefe de equipo liderando a Newshore dentro de **Vueling.com**\n- Desempeñé roles como desarrollador, analista, revisor de código y mentor de nuevas incorporaciones para Vueling.com.\n- Formé parte del equipo de arquitectura de Vueling.com para definir y decidir hacia donde evolucionará la plataforma.\n- Desarrollaba usando Scrum, principios SOLID, DDD (Domain Driven Design), TDD (Test Driven Design) y entrega continua. \n- Utilizaba tecnologías como: TFS, WCF, MVC 4, Entity Framework, SQL Server, Javascript, Google Maps API, jQuery, IoC Autofac, NMock"
+                "description": "- Arquitecto y jefe de equipo liderando a Newshore dentro de **Vueling.com**\n- Desempeñé roles como desarrollador, analista, revisor de código y mentor de nuevas incorporaciones para Vueling.com.\n- Formé parte del equipo de arquitectura de Vueling.com para definir y decidir hacia dónde evolucionará la plataforma.\n- Desarrollaba usando Scrum, principios SOLID, DDD (Domain Driven Design), TDD (Test Driven Design) y entrega continua. \n- Utilizaba tecnologías como: TFS, WCF, MVC 4, Entity Framework, SQL Server, Javascript, Google Maps API, jQuery, IoC Autofac, NMock"
               }
             ],
             "competences": [
@@ -418,7 +418,7 @@
         },
         "roles": [
           {
-            "name": "De Analista Programdor a Arquitecto de aplicaciones",
+            "name": "De Analista Programador a Arquitecto de aplicaciones",
             "startDate": "2004-08-01",
             "finishDate": "2010-06-01",
             "challenges": [
@@ -531,7 +531,7 @@
       {
         "details": {
           "name": "Ponente en el AWS Summit 2024",
-          "description": "Ponente en el AWS summit de Madrid para explicar como usamos la IA Generativa en Adevinta",
+          "description": "Ponente en el AWS summit de Madrid para explicar cómo usamos la IA Generativa en Adevinta",
           "URL": "https://www.linkedin.com/posts/igsalvar_aws-generativeai-madridsummit2024-ugcPost-7204525828997550080-raP1/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/25/a57dbcb5-b1ac-4106-86e4-d33106e44dae_1716879778152-1-1.jpeg",
@@ -556,7 +556,7 @@
       },
       {
         "details": {
-          "name": "Ganador del Adevinta Ingnite 2024",
+          "name": "Ganador del Adevinta Ignite 2024",
           "description": "Ganador del premio embajador de Adevinta en la edición 2024 por mi contribución mentorizando a varios compañeros y compañeras y por difundir la marca Adevinta.",
           "URL": "https://adevinta.com/stories/articles/ignite-and-the-adevinta-awards/",
           "image": {
@@ -583,7 +583,7 @@
       {
         "details": {
           "name": "Mentoría a una compañera para dar su primera charla - Charla para IT Academy - Barcelona Activa",
-          "description": "Mentoria a mí compañera Wanda Delisio para dar su primera charla.\nCreamos una charla y un workshop para ayudar a los alumnos de la especialización de Data Science de la IT Academy de Barcelona Activa para ver las diferencias entre estudiar y trabajar y como enfrentarse a su primer trabajo.\n",
+          "description": "Mentoría a mi compañera Wanda Delisio para dar su primera charla.\nCreamos una charla y un workshop para ayudar a los alumnos de la especialización de Data Science de la IT Academy de Barcelona Activa para ver las diferencias entre estudiar y trabajar y cómo enfrentarse a su primer trabajo.\n",
           "URL": "https://www.linkedin.com/posts/it-academy-barcelonactiva_itacademy-datascience-workshop-activity-7128365594176815104-oudT",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/25/216d6faf-80e9-4d7f-af8d-605a863dacc2_barcelonaactiva-1.jpeg",
@@ -596,7 +596,7 @@
       {
         "details": {
           "name": "Evolución de los perfiles Data para IT Academy - Barcelona Activa",
-          "description": "Charla para la dirección de la IT Academy de Barcelona Activa para explicar como están cambiando los perfiles \"Data\" en el mercado laboral y como pueden adaptar su temario para ayudar a que sea más cercano al mundo laboral.",
+          "description": "Charla para la dirección de la IT Academy de Barcelona Activa para explicar cómo están cambiando los perfiles \"Data\" en el mercado laboral y cómo pueden adaptar su temario para ayudar a que sea más cercano al mundo laboral.",
           "URL": "https://www.barcelonactiva.cat/es/itacademy",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/25/446f21bb-edce-4870-8cc6-aec0b25f3cba_data_profiles.png",
@@ -609,7 +609,7 @@
       {
         "details": {
           "name": "Cómo seguir aprendiendo con familia numerosa",
-          "description": "2 artículos que nacen del Open Space de la Barcelona Software Crafters de 2022 dónde estuve hablando sobe cómo seguir aprendiendo si tienes trabajo, familia u otras responsabilidades.\n\n- [Cómo me organizo con trabajo y familia numerosa](https://nikeyes.github.io/como-me-organizo-con-trabajo-y-familia-numerosa/)\n    \n- [Cómo sigo aprendiendo con trabajo y familia numerosa](https://nikeyes.github.io/como-sigo-aprendiendo-con-trabajo-y-familia-numerosa/)",
+          "description": "2 artículos que nacen del Open Space de la Barcelona Software Crafters de 2022 donde estuve hablando sobre cómo seguir aprendiendo si tienes trabajo, familia u otras responsabilidades.\n\n- [Cómo me organizo con trabajo y familia numerosa](https://nikeyes.github.io/como-me-organizo-con-trabajo-y-familia-numerosa/)\n    \n- [Cómo sigo aprendiendo con trabajo y familia numerosa](https://nikeyes.github.io/como-sigo-aprendiendo-con-trabajo-y-familia-numerosa/)",
           "URL": "https://nikeyes.github.io/como-sigo-aprendiendo-con-trabajo-y-familia-numerosa/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/25/c60a8ecb-1baf-4c1f-847c-5f79f9c2d6dd_img-20221022-wa0021-.jpg",
@@ -686,7 +686,7 @@
       {
         "details": {
           "name": "Miembro de la Software Crafters Barcelona desde hace más de 10 años.",
-          "description": "Siempre que he podido combinarlo con mis responsabilidades familiares, he participado como ponente, facilitador y organizandor de charlas para apoyar a la comunidad.",
+          "description": "Siempre que he podido combinarlo con mis responsabilidades familiares, he participado como ponente, facilitador y organizador de charlas para apoyar a la comunidad.",
           "URL": "https://www.meetup.com/es-ES/software-crafters-barcelona/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/dd1d94a8-4716-49a0-85ff-c825a1eb038b_highres_442914835.png",
