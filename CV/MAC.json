@@ -562,7 +562,13 @@
           "URL": "https://nikeyes.github.io/me-fio-de-mis-skills-porque-tienen-evals-es/"
         },
         "type": "post",
-        "publishingDate": "2026-04-01"
+        "publishingDate": "2026-04-01",
+        "relatedCompetences": [
+          {
+            "name": "Claude Code",
+            "type": "technology"
+          }
+        ]
       },
       {
         "details": {
