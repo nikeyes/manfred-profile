@@ -530,6 +530,25 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Ponente en Datadog Live Madrid 2025",
+          "description": "Conté cómo monitorizamos cada día todos nuestros sistemas, tanto software clásico como IA, y cómo usamos Datadog para detectar problemas antes de que afecten a los usuarios, en lugar de enterarnos cuando algo ya ha fallado.",
+          "URL": "https://www.linkedin.com/feed/update/urn:li:share:7292447146031697920/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/35e8df2b-6ecd-41db-a5f4-d00fbe1e97df_datadog-day-madrid.jpg",
+            "alt": "datadog-day-madrid.jpg"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2026-02-01",
+        "relatedCompetences": [
+          {
+            "name": "Datadog",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Ponente en el AWS Summit 2024",
           "description": "Ponente en el AWS summit de Madrid para explicar cómo usamos la IA Generativa en Adevinta",
           "URL": "https://www.linkedin.com/posts/igsalvar_aws-generativeai-madridsummit2024-ugcPost-7204525828997550080-raP1/",
@@ -543,12 +562,12 @@
       },
       {
         "details": {
-          "name": "Creador y profesor del Curso de GenAI para Adevinta",
-          "description": "Junto a mis compañeros Youness Nadir y Eric Bellet, hemos desarrollado e impartido 6 sesiones formativas enfocadas en las necesidades específicas de Adevinta:\n\n1. Using GenAI in Adevinta:\n - How to use LLMs in local\n - How to use in Adevinta\n - How to calculate costs\n2. Prompting best practices:\n - Basic Prompting\n - Tips for Claude\n - Use Cases Prompting\n - Advanced Prompting\n - Function Calling\n3. GenAI Tooling:\n - Langchain\n - RAG\n - Vector Databases\n - Agents\n4. Security and Risks\n - Multimodal Security\n - Prompting Attack/Defense\n - Other Attacks\n - Test your prompt security\n - Points to protect your LLM Application",
-          "URL": "https://www.linkedin.com/posts/jorge-castro-nistal_generativeai-generativeai-adevintans-activity-7241830536858505219-Jw4o",
+          "name": "Ganador del Adevinta Ignite 2024",
+          "description": "Ganador del premio embajador de Adevinta en la edición 2024 por mi contribución mentorizando a varios compañeros y compañeras y por difundir la marca Adevinta.",
+          "URL": "https://adevinta.com/stories/articles/ignite-and-the-adevinta-awards/",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/27/d1861066-8ad3-49bd-bc32-8c3302befef0_genai_training_large.png",
-            "alt": "genai_training_large.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/931009f9-e3be-476b-8cf7-37a958c3101a_copie-de-finca-mas-s.jpg",
+            "alt": "Copie de Finca Mas Solers R62_9277 1.jpg"
           }
         },
         "type": "achievement",
@@ -556,12 +575,12 @@
       },
       {
         "details": {
-          "name": "Ganador del Adevinta Ignite 2024",
-          "description": "Ganador del premio embajador de Adevinta en la edición 2024 por mi contribución mentorizando a varios compañeros y compañeras y por difundir la marca Adevinta.",
-          "URL": "https://adevinta.com/stories/articles/ignite-and-the-adevinta-awards/",
+          "name": "Creador y profesor del Curso de GenAI para Adevinta",
+          "description": "Junto a mis compañeros Youness Nadir y Eric Bellet, hemos desarrollado e impartido 6 sesiones formativas enfocadas en las necesidades específicas de Adevinta:\n\n1. Using GenAI in Adevinta:\n - How to use LLMs in local\n - How to use in Adevinta\n - How to calculate costs\n2. Prompting best practices:\n - Basic Prompting\n - Tips for Claude\n - Use Cases Prompting\n - Advanced Prompting\n - Function Calling\n3. GenAI Tooling:\n - Langchain\n - RAG\n - Vector Databases\n - Agents\n4. Security and Risks\n - Multimodal Security\n - Prompting Attack/Defense\n - Other Attacks\n - Test your prompt security\n - Points to protect your LLM Application",
+          "URL": "https://www.linkedin.com/posts/jorge-castro-nistal_generativeai-generativeai-adevintans-activity-7241830536858505219-Jw4o",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/931009f9-e3be-476b-8cf7-37a958c3101a_copie-de-finca-mas-s.jpg",
-            "alt": "Copie de Finca Mas Solers R62_9277 1.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/27/d1861066-8ad3-49bd-bc32-8c3302befef0_genai_training_large.png",
+            "alt": "genai_training_large.png"
           }
         },
         "type": "achievement",
