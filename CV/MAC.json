@@ -613,6 +613,21 @@
       },
       {
         "details": {
+          "name": "Cómo ser del 5% que sí genera valor con IA generativa",
+          "description": "El 95% de los proyectos de IA generativa fracasan. En este artículo cuento qué hace diferente al 5% restante.\n\n- **Antes de empezar:** cuándo tiene sentido usar IA y cuándo basta con un if/else.\n- **Los errores más comunes:** POC tras POC sin llegar a producción, \"ya optimizaremos después\" y no especializar la IA en tu dominio.\n- **Cómo hacerlo bien:** métricas de negocio desde el día 1, observabilidad y evals, arquitectura simple, costes bajo control y precisión donde importa.\n\nCon casos reales como Lumen, Vodafone o LawGeex.",
+          "URL": "https://nikeyes.github.io/como-ser-el-5-por-ciento-que-si-generan-valor-con-IA-generativa-es/"
+        },
+        "type": "post",
+        "publishingDate": "2025-10-01",
+        "relatedCompetences": [
+          {
+            "name": "Claude Code",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Ponente en DAMA Talks Barcelona 2025: ciberseguridad e IA generativa",
           "description": "Ponente en el DAMA Talks de DAMA España sobre ciberseguridad y seguridad del dato en la era de la IA generativa, en las oficinas de T-Systems Iberia en Barcelona.\n\nHicimos demos en directo para explicar los riesgos de seguridad de las aplicaciones con LLMs y de cómo protegerlas.",
           "URL": "https://www.linkedin.com/feed/update/urn:li:activity:7356224557638180865/",
