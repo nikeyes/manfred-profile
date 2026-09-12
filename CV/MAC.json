@@ -12,13 +12,13 @@
       "description": "Me dedico a que la IA sea **útil de verdad**: para las personas y para el producto, desde tecnología hasta marketing, RRHH o ventas.\n\nLlevo 5 años desarrollando y usando IA cada día, y he aprendido a ponerle riendas: tests, evals, seguridad y, sobre todo, medir el impacto. Así ayudo a llevar productos con IA a producción, con observabilidad y el coste bajo control.\n\n25 años haciendo software me han enseñado a **no fiarme de las demos bonitas** hasta verlas en producción, con usuarios de verdad.\n\nMe gusta compartir lo que aprendo en charlas y workshops, especialmente lo que no funciona. 😅\n\nEn mi vida personal soy padre de 4 dragones: el proyecto más difícil que he tenido, y sin rollbacks.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/4b9582e8-e46f-44b9-9c0f-edd101fb155e_foto_linkedin.jpeg",
-        "alt": "Foto de Jorge Castro"
+        "alt": "Foto_Linkedin.jpeg"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJk11olJXDpBIRcAOkIeD6AAQ)",
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Bigues i Riells del Fai"
+        "municipality": "Bigues i Riells"
       }
     },
     "relevantLinks": [
@@ -38,11 +38,6 @@
         "type": "other",
         "URL": "https://nikeyes.github.io/",
         "description": "Blog personal"
-      },
-      {
-        "type": "other",
-        "URL": "https://nikeyes.github.io/",
-        "description": "Test"
       }
     ]
   },
@@ -53,7 +48,7 @@
           "name": "Kleinanzeigen",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/08/08/d0d4d3a7-a60b-4e98-86e7-1d843309a4cb_logo.jpg",
-            "alt": "Logo de Kleinanzeigen"
+            "alt": "logo.jpg"
           },
           "URL": "https://www.kleinanzeigen.de/"
         },
@@ -100,7 +95,7 @@
           "name": "Adevinta",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/dcbe41f9-1ca8-4880-b73a-f4d8f5c708f4_adevintaspain_logo.jpeg",
-            "alt": "Logo de Adevinta"
+            "alt": "adevintaspain_logo.jpeg"
           },
           "URL": "https://www.adevinta.com"
         },
@@ -172,7 +167,7 @@
           "name": "Adevinta",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/33a13f39-f17c-4c8b-900f-57078fd7035c_adevintaspain_logo.jpeg",
-            "alt": "Logo de Adevinta"
+            "alt": "adevintaspain_logo.jpeg"
           },
           "URL": "https://www.adevinta.com"
         },
@@ -216,7 +211,7 @@
           "name": "Adevinta",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/00ff65bd-fdba-4b4d-ac95-d1f91678c84c_adevintaspain_logo.jpeg",
-            "alt": "Logo de Adevinta"
+            "alt": "adevintaspain_logo.jpeg"
           },
           "URL": "https://adevinta.com/"
         },
@@ -272,7 +267,7 @@
           "name": "Habitaclia",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/c092669c-b7d4-4226-8f16-1a862d9d5b75_habitacliacom_logo.jpeg",
-            "alt": "Logo de Habitaclia"
+            "alt": "habitacliacom_logo.jpeg"
           }
         },
         "roles": [
@@ -327,7 +322,7 @@
           "name": "newshore",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/c5be863b-3471-4942-bd74-6b2d70aada6b_newshore_logo.jpeg",
-            "alt": "Logo de Newshore"
+            "alt": "newshore_logo.jpeg"
           }
         },
         "roles": [
@@ -374,7 +369,7 @@
           "name": "Atos",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/48e16392-2173-4670-bab2-bb01cc5f48b8_atos_logo.jpeg",
-            "alt": "Logo de Atos"
+            "alt": "atos_logo.jpeg"
           }
         },
         "roles": [
@@ -421,7 +416,7 @@
           "name": "SEYSTIC",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/5fa1fae5-f20d-43e9-82d4-d43e76a61054_1711442594818.jpeg",
-            "alt": "Logo de SEYSTIC"
+            "alt": "1711442594818.jpeg"
           },
           "URL": "https://seystic.com/"
         },
@@ -457,7 +452,7 @@
           "name": "Instituto municipal de informática de Barcelona",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/ba10430f-2ac4-47b2-9ff9-a95097c99ba0_logo.png",
-            "alt": "Logo del Instituto Municipal de Informática de Barcelona"
+            "alt": "logo.png"
           }
         },
         "roles": [
@@ -500,7 +495,7 @@
           "name": "Escola Universitaria Politecnica de Mataro (Tecnocampus)",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/27/de011b39-3669-4990-85ec-801a11d022cb_tecnocampus.jpeg",
-            "alt": "Logo del Tecnocampus de Mataró"
+            "alt": "tecnocampus.jpeg"
           },
           "URL": "https://www.tecnocampus.cat/es/escoles-superiors-del-tecnocampus/escola-superior-politecnica"
         },
@@ -544,7 +539,7 @@
           "URL": "https://github.com/nikeyes/stepwise-dev",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/cc4575c5-c814-4454-84ac-5ce7e8927d3f_stepwisedev.png",
-            "alt": "Logo de stepwise-dev, con el texto \"Claude Code + Codex\""
+            "alt": "stepwisedev.png"
           }
         },
         "type": "openSource",
@@ -574,7 +569,7 @@
           "URL": "https://lnkd.in/p/eEA3Fgem",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/574932c7-f7ba-4236-8a3a-5749a3a16523_aws-summit-cover.png",
-            "alt": "Sobre el escenario del AWS Summit, con la slide \"We know the cost. We don't know the value.\""
+            "alt": "aws-summit-cover.png"
           }
         },
         "type": "talk",
@@ -597,7 +592,7 @@
           "URL": "https://nikeyes.github.io/me-fio-de-mis-skills-porque-tienen-evals-es/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/0244e9b9-7f2c-48f3-bb84-acfa0f4b66b8_evals_skills.png",
-            "alt": "Ilustración de una skill sin evals, en línea discontinua, frente a otra validada con un check"
+            "alt": "evals_skills.png"
           }
         },
         "type": "post",
@@ -616,7 +611,7 @@
           "URL": "https://github.com/nikeyes/ai-dev-workshop",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/5c109986-169c-488c-ae8f-02c07c418b9e_ai-dev-workshop-cove.png",
-            "alt": "Portada del workshop: \"Uncovering better ways of developing\", en Wallbox, Adevinta y Kleinanzeigen"
+            "alt": "ai-dev-workshop-cover.png"
           }
         },
         "type": "talk",
@@ -635,30 +630,11 @@
           "URL": "https://nikeyes.github.io/tu-claude-md-no-funciona-sin-context-engineering-es/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/f93568e2-a6bf-4f25-b470-f7e4b2bb790d_captura-contexto-ver.png",
-            "alt": "Salida de /context en Claude Code con el contexto al 32 %, desglosado por system prompt, tools, agentes y memoria"
+            "alt": "captura-contexto-vertical.png"
           }
         },
         "type": "post",
         "publishingDate": "2025-11-01",
-        "relatedCompetences": [
-          {
-            "name": "Claude Code",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Cómo ser del 5% que sí genera valor con IA generativa",
-          "description": "El 95% de los proyectos de IA generativa fracasan. En este artículo cuento qué hace diferente al 5% restante.\n\n- **Antes de empezar:** cuándo tiene sentido usar IA y cuándo basta con un if/else.\n- **Los errores más comunes:** POC tras POC sin llegar a producción, \"ya optimizaremos después\" y no especializar la IA en tu dominio.\n- **Cómo hacerlo bien:** métricas de negocio desde el día 1, observabilidad y evals, arquitectura simple, costes bajo control y precisión donde importa.\n\nCon casos reales como Lumen, Vodafone o LawGeex.",
-          "URL": "https://nikeyes.github.io/como-ser-el-5-por-ciento-que-si-generan-valor-con-IA-generativa-es/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/b34708ab-63a1-4a9b-a436-5016191e6d84_5percent-vertical.jpg",
-            "alt": "Ilustración de gente cruzando una grieta por una pasarela hacia el 5 %, con el lema \"De la demo al valor\""
-          }
-        },
-        "type": "post",
-        "publishingDate": "2025-10-01",
         "relatedCompetences": [
           {
             "name": "Claude Code",
@@ -673,7 +649,7 @@
           "URL": "https://www.linkedin.com/feed/update/urn:li:activity:7356224557638180865/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/9fcb0935-902b-4bbb-b48c-4f1048be7360_dama_talks.jpg",
-            "alt": "Sala llena durante la charla de DAMA en T-Systems, con la slide \"¿Qué hay en esta foto?\""
+            "alt": "dama_talks.jpg"
           }
         },
         "type": "talk",
@@ -699,12 +675,31 @@
       },
       {
         "details": {
+          "name": "Cómo ser del 5% que sí genera valor con IA generativa",
+          "description": "El 95% de los proyectos de IA generativa fracasan. En este artículo cuento qué hace diferente al 5% restante.\n\n- **Antes de empezar:** cuándo tiene sentido usar IA y cuándo basta con un if/else.\n- **Los errores más comunes:** POC tras POC sin llegar a producción, \"ya optimizaremos después\" y no especializar la IA en tu dominio.\n- **Cómo hacerlo bien:** métricas de negocio desde el día 1, observabilidad y evals, arquitectura simple, costes bajo control y precisión donde importa.\n\nCon casos reales como Lumen, Vodafone o LawGeex.",
+          "URL": "https://nikeyes.github.io/como-ser-el-5-por-ciento-que-si-generan-valor-con-IA-generativa-es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/b34708ab-63a1-4a9b-a436-5016191e6d84_5percent-vertical.jpg",
+            "alt": "5percent-vertical.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2025-10-01",
+        "relatedCompetences": [
+          {
+            "name": "Claude Code",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Ponente en Commit Conf 2025: Hackea y protege tus aplicaciones de GenAI",
           "description": "Charla con Alejandro Bustamante sobre seguridad en aplicaciones de IA generativa: cómo se atacan y qué defensas funcionan de verdad.\n\nHicimos una demo en directo con un chatbot protegido. El código está publicado en GitHub.\n\n- [Vídeo](https://www.youtube.com/watch?v=FHckzoXfs9k)\n- [Slides](https://bit.ly/slides-genai-security)\n- [Código de la demo](https://github.com/nikeyes/genai-security-demo)",
           "URL": "https://www.youtube.com/watch?v=FHckzoXfs9k",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/8ae181c6-80d8-4c74-900e-a9f5c380d6ea_commitconf.jpeg",
-            "alt": "Selfie de los dos ponentes con el auditorio lleno al fondo"
+            "alt": "commitconf.jpeg"
           }
         },
         "type": "talk",
@@ -735,7 +730,7 @@
           "URL": "https://www.linkedin.com/feed/update/urn:li:share:7292447146031697920/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/35e8df2b-6ecd-41db-a5f4-d00fbe1e97df_datadog-day-madrid.jpg",
-            "alt": "Mesa redonda en el escenario, con la slide \"Testimonios de clientes: Adevinta y Playtomic\""
+            "alt": "datadog-day-madrid.jpg"
           }
         },
         "type": "talk",
@@ -754,24 +749,11 @@
           "URL": "https://www.linkedin.com/posts/igsalvar_aws-generativeai-madridsummit2024-ugcPost-7204525828997550080-raP1/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/25/a57dbcb5-b1ac-4106-86e4-d33106e44dae_1716879778152-1-1.jpeg",
-            "alt": "Cartel de las sesiones de Adevinta en el AWS Summit de Madrid, con los ponentes"
+            "alt": "1716879778152 1 1.jpeg"
           }
         },
         "type": "talk",
         "publishingDate": "2024-06-01"
-      },
-      {
-        "details": {
-          "name": "Creador y profesor del Curso de GenAI para Adevinta",
-          "description": "Junto a mis compañeros Youness Nadir y Eric Bellet, hemos desarrollado e impartido 6 sesiones formativas enfocadas en las necesidades específicas de Adevinta:\n\n1. Using GenAI in Adevinta:\n2. Prompting best practices:\n3. GenAI Tooling:\n4. Security and Risks\n",
-          "URL": "https://www.linkedin.com/posts/jorge-castro-nistal_generativeai-generativeai-adevintans-activity-7241830536858505219-Jw4o",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/6b13fd84-91f1-4335-b819-174450369a03_genai-course-cover.png",
-            "alt": "Portada del curso, con una bombilla y el texto \"Gen AI\""
-          }
-        },
-        "type": "achievement",
-        "publishingDate": "2024-05-01"
       },
       {
         "details": {
@@ -780,7 +762,20 @@
           "URL": "https://adevinta.com/stories/articles/ignite-and-the-adevinta-awards/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/931009f9-e3be-476b-8cf7-37a958c3101a_copie-de-finca-mas-s.jpg",
-            "alt": "Entrega del premio en el escenario, con mi nombre proyectado al fondo"
+            "alt": "Copie de Finca Mas Solers R62_9277 1.jpg"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2024-05-01"
+      },
+      {
+        "details": {
+          "name": "Creador y profesor del Curso de GenAI para Adevinta",
+          "description": "Junto a mis compañeros Youness Nadir y Eric Bellet, hemos desarrollado e impartido 6 sesiones formativas enfocadas en las necesidades específicas de Adevinta:\n\n1. Using GenAI in Adevinta:\n2. Prompting best practices:\n3. GenAI Tooling:\n4. Security and Risks\n",
+          "URL": "https://www.linkedin.com/posts/jorge-castro-nistal_generativeai-generativeai-adevintans-activity-7241830536858505219-Jw4o",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/6b13fd84-91f1-4335-b819-174450369a03_genai-course-cover.png",
+            "alt": "genai-course-cover.png"
           }
         },
         "type": "achievement",
@@ -793,7 +788,7 @@
           "URL": "https://www.linkedin.com/posts/freireana_dataanalytics-innovaciaejn-python-activity-7186394103989846017-d9zx/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/25/5b8c646b-a91b-4021-bc04-15165da800e5_reto.jpeg",
-            "alt": "Tres personas con camiseta del equipo, riendo durante la sesión con el portátil"
+            "alt": "reto.jpeg"
           }
         },
         "type": "talk",
@@ -806,7 +801,7 @@
           "URL": "https://www.linkedin.com/posts/it-academy-barcelonactiva_itacademy-datascience-workshop-activity-7128365594176815104-oudT",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/25/216d6faf-80e9-4d7f-af8d-605a863dacc2_barcelonaactiva-1.jpeg",
-            "alt": "Charla ante los alumnos de la IT Academy, con las pantallas de la presentación al fondo"
+            "alt": "barcelonaActiva 1.jpeg"
           }
         },
         "type": "achievement",
@@ -819,7 +814,7 @@
           "URL": "https://www.barcelonactiva.cat/es/itacademy",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/25/446f21bb-edce-4870-8cc6-aec0b25f3cba_data_profiles.png",
-            "alt": "Captura de la sesión por videollamada con la presentación compartida"
+            "alt": "data_profiles.png"
           }
         },
         "type": "talk",
@@ -832,7 +827,7 @@
           "URL": "https://nikeyes.github.io/como-sigo-aprendiendo-con-trabajo-y-familia-numerosa/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/25/c60a8ecb-1baf-4c1f-847c-5f79f9c2d6dd_img-20221022-wa0021-.jpg",
-            "alt": "Círculo de asistentes en el open space de la Software Crafters Barcelona"
+            "alt": "IMG-20221022-WA0021 1.jpg"
           }
         },
         "type": "post",
@@ -844,7 +839,7 @@
           "description": "Charla que nace de una mentoria a mi compañera Elena Tajadura para mejorar su confianza, eliminar el síndrome del impostor y mejorar sus habilidades comunicativas.\nEsta charla fue el final de la mentoría y la dimos en:\n- Adevinta\n- Software Crafters Barcelona\n- Codemotion \n- DevBCN",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/78038f2d-d5bf-41e4-b0ab-e4897e06fc8d_53082707462_4de12f92.jpg",
-            "alt": "Los dos ponentes de la charla ante el photocall del evento"
+            "alt": "53082707462_4de12f927e_o.jpg"
           }
         },
         "type": "talk",
@@ -870,7 +865,7 @@
           "description": "Mentor de varias personas para hacer el cambio de su rol a un rol de machine learning engineer",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/25/1f3b711f-3df1-429a-9327-ceaeeaaa1484_mentoring.jpeg",
-            "alt": "Diagrama de mentoring con sus elementos: formación, consejo, apoyo, dirección y objetivos"
+            "alt": "mentoring.jpeg"
           }
         },
         "type": "achievement",
@@ -883,7 +878,7 @@
           "URL": "https://youtu.be/tXylXIBvqbA?t=2143",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/1008c61e-6d3e-417c-ab97-1ef1fc8f87c1_screenshot-2024-12-2.png",
-            "alt": "Portada del episodio 13 del podcast \"Experiencias de un programador\": \"Developer se convierte en manager\""
+            "alt": "Screenshot 2024-12-23 at 20.31.31.png"
           }
         },
         "type": "post",
@@ -896,7 +891,7 @@
           "URL": "https://www.youtube.com/watch?v=N0r9G9YdXvE",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/0df3dc2b-b99e-4925-b9e0-3b870193cdac_output-onlinepngtool.png",
-            "alt": "Mesa de ponentes al aire libre durante el Agile Open Space"
+            "alt": "output-onlinepngtools.png"
           }
         },
         "type": "talk",
@@ -909,7 +904,7 @@
           "URL": "https://www.meetup.com/es-ES/software-crafters-barcelona/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/dd1d94a8-4716-49a0-85ff-c825a1eb038b_highres_442914835.png",
-            "alt": "Presentando junto a la pantalla en una sesión de la comunidad"
+            "alt": "highres_442914835.png"
           }
         },
         "type": "achievement",
@@ -987,6 +982,12 @@
       {
         "skill": {
           "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitHub Actions",
           "type": "technology"
         }
       },
@@ -1123,7 +1124,7 @@
           "URL": "https://www.lhh.com/es/es/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/e14aecbc-2490-4432-842d-79927f63b15a_lee-hecht-harrison-6.jpeg",
-            "alt": "Logo de Lee Hecht Harrison"
+            "alt": "Lee-Hecht-Harrison-600x450-3856927645.jpeg"
           }
         },
         "finishDate": "2017-05-01"
@@ -1159,7 +1160,7 @@
           "URL": "https://www.improvement21.com/eventos/curso-oficial-management-3-0-foundations-workout-barcelona-marzo-2018/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/e2fda4e3-ed2f-4b54-b49a-5985d971dec6_m30-logo.png",
-            "alt": "Logo de Improvement21"
+            "alt": "m30-logo.png"
           }
         },
         "finishDate": "2018-03-01"
