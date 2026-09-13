@@ -694,6 +694,18 @@
       },
       {
         "details": {
+          "name": "UPF",
+          "description": "UPF",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/13/c9f8d50e-39b4-4b93-8b9c-a1987eecd133_c56e0737-a961-4e94-a.jpg",
+            "alt": "c56e0737-a961-4e94-ac97-9e5f553fe03d~1.jpg"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2025-04-01"
+      },
+      {
+        "details": {
           "name": "Ponente en Commit Conf 2025: Hackea y protege tus aplicaciones de GenAI",
           "description": "Charla con Alejandro Bustamante sobre seguridad en aplicaciones de IA generativa: cómo se atacan y qué defensas funcionan de verdad.\n\nHicimos una demo en directo con un chatbot protegido. El código está publicado en GitHub.\n\n- [Vídeo](https://www.youtube.com/watch?v=FHckzoXfs9k)\n- [Slides](https://bit.ly/slides-genai-security)\n- [Código de la demo](https://github.com/nikeyes/genai-security-demo)",
           "URL": "https://www.youtube.com/watch?v=FHckzoXfs9k",
