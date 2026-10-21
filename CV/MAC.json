@@ -16,8 +16,8 @@
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJk11olJXDpBIRcAOkIeD6AAQ)",
-        "country": "Spain",
-        "region": "Catalonia",
+        "country": "España",
+        "region": "Cataluña",
         "municipality": "Bigues i Riells"
       }
     },
@@ -644,6 +644,25 @@
       },
       {
         "details": {
+          "name": "How to be in the 5% that does get value from generative AI",
+          "description": "95% of generative AI projects fail. In this article I explain what makes the other 5% different.\n\n- **Before you start:** when it makes sense to use AI and when an if/else is enough.\n- **The most common mistakes:** POC after POC without reaching production, \"we will optimize later\" and not specializing the AI in your domain.\n- **How to do it right:** business metrics from day 1, observability and evals, simple architecture, costs under control and accuracy where it matters.\n\nWith real cases such as Lumen, Vodafone or LawGeex.",
+          "URL": "https://nikeyes.github.io/como-ser-el-5-por-ciento-que-si-generan-valor-con-IA-generativa-es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/b34708ab-63a1-4a9b-a436-5016191e6d84_5percent-vertical.jpg",
+            "alt": "5percent-vertical.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2025-10-01",
+        "relatedCompetences": [
+          {
+            "name": "Claude Code",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Speaker at DAMA Talks Barcelona 2025: cybersecurity and generative AI",
           "description": "Speaker at DAMA Spain's DAMA Talks about cybersecurity and data security in the era of generative AI, at the T-Systems Iberia offices in Barcelona.\n\nWe did live demos to explain the security risks of LLM applications and how to protect them.",
           "URL": "https://www.linkedin.com/feed/update/urn:li:activity:7356224557638180865/",
@@ -669,25 +688,6 @@
           },
           {
             "name": "Ollama",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "How to be in the 5% that does get value from generative AI",
-          "description": "95% of generative AI projects fail. In this article I explain what makes the other 5% different.\n\n- **Before you start:** when it makes sense to use AI and when an if/else is enough.\n- **The most common mistakes:** POC after POC without reaching production, \"we will optimize later\" and not specializing the AI in your domain.\n- **How to do it right:** business metrics from day 1, observability and evals, simple architecture, costs under control and accuracy where it matters.\n\nWith real cases such as Lumen, Vodafone or LawGeex.",
-          "URL": "https://nikeyes.github.io/como-ser-el-5-por-ciento-que-si-generan-valor-con-IA-generativa-es/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/b34708ab-63a1-4a9b-a436-5016191e6d84_5percent-vertical.jpg",
-            "alt": "5percent-vertical.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2025-10-01",
-        "relatedCompetences": [
-          {
-            "name": "Claude Code",
             "type": "technology"
           }
         ]
@@ -770,12 +770,12 @@
       },
       {
         "details": {
-          "name": "Winner of Adevinta Ignite 2024",
-          "description": "Winner of the Adevinta ambassador award in the 2024 edition for my work mentoring several colleagues and for spreading the Adevinta brand.",
-          "URL": "https://adevinta.com/stories/articles/ignite-and-the-adevinta-awards/",
+          "name": "Creator and teacher of the GenAI Course for Adevinta",
+          "description": "Together with my colleagues Youness Nadir and Eric Bellet, we created and taught 6 training sessions focused on the specific needs of Adevinta:\n\n1. Using GenAI in Adevinta:\n2. Prompting best practices:\n3. GenAI Tooling:\n4. Security and Risks\n",
+          "URL": "https://www.linkedin.com/posts/jorge-castro-nistal_generativeai-generativeai-adevintans-activity-7241830536858505219-Jw4o",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/931009f9-e3be-476b-8cf7-37a958c3101a_copie-de-finca-mas-s.jpg",
-            "alt": "Copie de Finca Mas Solers R62_9277 1.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/6b13fd84-91f1-4335-b819-174450369a03_genai-course-cover.png",
+            "alt": "genai-course-cover.png"
           }
         },
         "type": "achievement",
@@ -783,12 +783,12 @@
       },
       {
         "details": {
-          "name": "Creator and teacher of the GenAI Course for Adevinta",
-          "description": "Together with my colleagues Youness Nadir and Eric Bellet, we created and taught 6 training sessions focused on the specific needs of Adevinta:\n\n1. Using GenAI in Adevinta:\n2. Prompting best practices:\n3. GenAI Tooling:\n4. Security and Risks\n",
-          "URL": "https://www.linkedin.com/posts/jorge-castro-nistal_generativeai-generativeai-adevintans-activity-7241830536858505219-Jw4o",
+          "name": "Winner of Adevinta Ignite 2024",
+          "description": "Winner of the Adevinta ambassador award in the 2024 edition for my work mentoring several colleagues and for spreading the Adevinta brand.",
+          "URL": "https://adevinta.com/stories/articles/ignite-and-the-adevinta-awards/",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/6b13fd84-91f1-4335-b819-174450369a03_genai-course-cover.png",
-            "alt": "genai-course-cover.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/931009f9-e3be-476b-8cf7-37a958c3101a_copie-de-finca-mas-s.jpg",
+            "alt": "Copie de Finca Mas Solers R62_9277 1.jpg"
           }
         },
         "type": "achievement",
@@ -929,17 +929,17 @@
     "languages": [
       {
         "name": "CA",
-        "fullName": "Catalan / Valencian",
+        "fullName": "Catalán / Valenciano",
         "level": "Full professional proficiency"
       },
       {
         "name": "EN",
-        "fullName": "English",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
         "name": "ES",
-        "fullName": "Spanish",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -1127,6 +1127,16 @@
     ],
     "studies": [
       {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Computer Engineering",
+        "startDate": "2003-03-01",
+        "institution": {
+          "name": "Universitat Politècnica de Catalunya (UPC)"
+        },
+        "finishDate": "2005-07-01"
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Course on recruitment processes, leadership and coaching",
@@ -1143,26 +1153,6 @@
         "finishDate": "2017-05-01"
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Computer Engineering",
-        "startDate": "2003-03-01",
-        "institution": {
-          "name": "Universitat Politècnica de Catalunya (UPC)"
-        },
-        "finishDate": "2005-07-01"
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Technical Engineering in Computer Science",
-        "startDate": "1999-09-01",
-        "institution": {
-          "name": "Escola Universitaria Politècnica de Mataró"
-        },
-        "finishDate": "2003-02-01"
-      },
-      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Management 3.0 with Ángel Medinilla and Gabriel Prat",
@@ -1177,26 +1167,16 @@
           }
         },
         "finishDate": "2018-03-01"
-      }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Adaptability to change",
-          "type": "practice"
-        }
       },
       {
-        "skill": {
-          "name": "Leadership skills",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Resistance to frustration",
-          "type": "practice"
-        }
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Technical Engineering in Computer Science",
+        "startDate": "1999-09-01",
+        "institution": {
+          "name": "Escola Universitaria Politècnica de Mataró"
+        },
+        "finishDate": "2003-02-01"
       }
     ]
   },
