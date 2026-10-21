@@ -1188,13 +1188,13 @@
       },
       {
         "skill": {
-          "name": "Leadership",
+          "name": "Leadership skills",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Tolerance to frustration",
+          "name": "Resistance to frustration",
           "type": "practice"
         }
       }
