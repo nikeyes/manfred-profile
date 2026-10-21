@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.5"
   },
   "aboutMe": {
@@ -1182,19 +1182,19 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Adaptabilidad al cambio",
+          "name": "Adaptability to change",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Liderazgo",
+          "name": "Leadership skills",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Resistencia a la frustración",
+          "name": "Resistance to frustration",
           "type": "practice"
         }
       }
