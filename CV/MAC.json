@@ -8,16 +8,16 @@
     "profile": {
       "name": "Jorge",
       "surnames": "Castro Nistal",
-      "title": "AI Engineer & AI Enabler · 25 años haciendo software que la gente usa",
-      "description": "Me dedico a que la IA sea útil, no solo vistosa, para las personas y para el producto, desde tecnología hasta marketing, RRHH o ventas.\n\nLlevo 5 años desarrollando y usando IA cada día, y he aprendido a ponerle riendas: tests, evals, seguridad y, sobre todo, medir el impacto. Así ayudo a llevar productos con IA a producción, con observabilidad y los costes bajo control.\n\n25 años haciendo software me han enseñado a **no fiarme de las demos bonitas** hasta verlas en producción, con usuarios de verdad.\n\nMe gusta compartir lo que aprendo en charlas y workshops, especialmente lo que no funciona o nos ha salido mal. 😅\n\nEn mi vida personal soy padre de 4 dragones: el proyecto más difícil que he tenido, y sin opción de rollback.",
+      "title": "AI Engineer & AI Enabler · 25 years building software that people use",
+      "description": "My job is to make AI useful, not just shiny, for people and for the product, from engineering to marketing, HR or sales.\n\nI have been building and using AI every day for 5 years, and I have learned to keep it under control: tests, evals, security and, above all, measuring the impact. This is how I help take AI products to production, with observability and costs under control.\n\n25 years of building software have taught me **not to trust nice demos** until I see them in production, with real users.\n\nI like to share what I learn in talks and workshops, especially what does not work or what went wrong for us. 😅\n\nIn my personal life I am the father of 4 little dragons: the hardest project I have ever had, and with no rollback option.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/4b9582e8-e46f-44b9-9c0f-edd101fb155e_foto_linkedin.jpeg",
         "alt": "Foto_Linkedin.jpeg"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJk11olJXDpBIRcAOkIeD6AAQ)",
-        "country": "España",
-        "region": "Cataluña",
+        "country": "Spain",
+        "region": "Catalonia",
         "municipality": "Bigues i Riells"
       }
     },
@@ -37,7 +37,7 @@
       {
         "type": "other",
         "URL": "https://nikeyes.github.io/",
-        "description": "Blog personal"
+        "description": "Personal blog"
       }
     ]
   },
@@ -58,7 +58,7 @@
             "startDate": "2025-07-01",
             "challenges": [
               {
-                "description": "Mi papel es habilitar: trabajo junto a los equipos para que lleguen más lejos con IA, no para hacerlo por ellos.\n\n- Junto con el equipo de producto, diseñamos y llevamos a producción un **agente de IA para vendedores profesionales**, con observabilidad y con fases de escalado para minimizar riesgos.\n- Ayudé a los equipos de anuncios y de atención al cliente a poner en producción la **creación de anuncios asistida por IA** y la **clasificación automática de tickets** con AWS Bedrock y Spring AI, siempre buscando el equilibrio entre calidad y coste.\n- Habilitamos **AWS Bedrock para toda la organización**, con control de accesos, observabilidad y trazabilidad de costes.\n- Ayudé a introducir **Python en backend para casos de IA**, en una compañía con Java como estándar, junto a los equipos de plataforma, DevEx, seguridad y SRE.\n- Acompaño a **equipos no técnicos** (Sales, Marketing, Advertising, Operaciones, RRHH) para que incorporen la IA y ganen autonomía en su día a día.\n- Formo a equipos de ingeniería en **desarrollo asistido por IA** y en cómo construir productos con GenAI.\n- Ayudé a que pasáramos de **0 a 350 personas usando Claude Code y Claude Cowork**."
+                "description": "My role is to enable: I work with the teams so they can go further with AI, not to do the work for them.\n\n- Together with the product team, we designed and took to production an **AI agent for professional sellers**, with observability and a phased rollout to reduce risks.\n- I helped the ads and customer support teams put **AI-assisted ad creation** and **automatic ticket classification** into production with AWS Bedrock and Spring AI, always looking for the balance between quality and cost.\n- We enabled **AWS Bedrock for the whole organization**, with access control, observability and cost tracking.\n- I helped introduce **Python in the backend for AI use cases**, in a company where Java is the standard, together with the platform, DevEx, security and SRE teams.\n- I support **non-technical teams** (Sales, Marketing, Advertising, Operations, HR) so they adopt AI and become more autonomous in their daily work.\n- I train engineering teams in **AI-assisted development** and in how to build products with GenAI.\n- I helped us go from **0 to 350 people using Claude Code and Claude Cowork**."
               }
             ],
             "competences": [
@@ -106,7 +106,7 @@
             "finishDate": "2025-05-01",
             "challenges": [
               {
-                "description": "- Durante 2024-2025 impulsé el uso de **IA Generativa** dentro de Adevinta, tanto desarrollando proyectos como formando a equipos de producto.\n- Formé en IA generativa a perfiles técnicos de varios países.\n- Contribuí en el **desarrollo end-to-end de modelos de machine learning** que ayudan a nuestros equipos de producto.\n- Creé **herramientas para nuestra Machine Learning Platform** para acelerar el día a día de nuestros Data Scientists.\n- Enriquecí el desarrollo de modelos de machine learning con buenas prácticas del desarrollo de software para **hacer productos mantenibles y escalables** a largo plazo.\n- Fui **puente de unión entre Data Scientists, SREs y Backends** para conseguir aprovechar el potencial de machine learning en nuestros equipos\n- Gestioné el ciclo de vida de nuestros proyectos de machine learning usando la filosofía **MLOps**\n"
+                "description": "- During 2024-2025 I drove the use of **Generative AI** inside Adevinta, both building projects and training product teams.\n- I trained technical profiles from several countries in generative AI.\n- I contributed to the **end-to-end development of machine learning models** that help our product teams.\n- I built **tools for our Machine Learning Platform** to speed up the daily work of our Data Scientists.\n- I improved the development of machine learning models with good software development practices to **build maintainable and scalable products** in the long term.\n- I was the **bridge between Data Scientists, SREs and Backend engineers** to get the most out of machine learning in our teams.\n- I managed the lifecycle of our machine learning projects using the **MLOps** approach.\n"
               }
             ],
             "competences": [
@@ -178,7 +178,7 @@
             "finishDate": "2021-11-01",
             "challenges": [
               {
-                "description": "- Cada día trabajaba con mis compañeros para que fueran mejores desarrolladores y pudieran alcanzar su máximo potencial.\n- Además ayudaba a nuestros equipos multidisciplinares a convertirse en equipos de alto rendimiento y llegar al siguiente nivel."
+                "description": "- Every day I worked with my colleagues to help them become better developers and reach their full potential.\n- I also helped our cross-functional teams become high-performing teams and reach the next level."
               }
             ],
             "competences": [
@@ -222,7 +222,7 @@
             "finishDate": "2020-01-01",
             "challenges": [
               {
-                "description": "- Formaba parte del equipo de Real Estate de Adevinta Spain (Fotocasa y Habitaclia)\n- Desarrollaba y facilitaba la creación de nuevas funcionalidades para nuestros portales.\n- Creaba herramientas y procesos para facilitar el desarrollo al resto de equipos de Adevinta Spain.\n- Gestionaba el ciclo de vida de las aplicaciones (ALM) basado en Github\n- Trabajaba con tecnologías como: .Net (WebAPI, MVC, Task Parallel Library, Async Task), Dapper, ES6, Powershell, Python.\n- Cada día trabajaba con OKRs, Lean Startup y Agile junto a los equipos de producto."
+                "description": "- I was part of the Real Estate team at Adevinta Spain (Fotocasa and Habitaclia).\n- I built and helped create new features for our websites.\n- I created tools and processes to make development easier for the other teams at Adevinta Spain.\n- I managed the application lifecycle (ALM) based on Github.\n- I worked with technologies such as: .Net (WebAPI, MVC, Task Parallel Library, Async Task), Dapper, ES6, Powershell, Python.\n- Every day I worked with OKRs, Lean Startup and Agile together with the product teams."
               }
             ],
             "competences": [
@@ -272,12 +272,12 @@
         },
         "roles": [
           {
-            "name": "Arquitecto de software",
+            "name": "Software Architect",
             "startDate": "2014-03-01",
             "finishDate": "2019-03-01",
             "challenges": [
               {
-                "description": "- Definía, diseñaba y desarrollaba la arquitectura .Net del portal y el backoffice de habitaclia.com\n- Mantenía aplicaciones históricas de la compañía.\n- Implanté la gestión del ciclo de vida de las aplicaciones (ALM) basado en Team Foundation Server.\n- Desarrollaba con tecnologías tan variadas como: VB6, ASP 3, Javascript, Browserify, Gulp, SQL Server, Google Maps API, Azure Service Bus, Dapper y el ecosistema .Net 4.5 (WebAPI, MVC, Task Parallel Library, Async Task).\n- Aplicación de buenas prácticas como principios SOLID, DDD (Domain Driven Design), inyección de dependencias e iniciando el camino del TDD (Test Driven Design). \n- Todo ello acompañado de metodologías ágiles."
+                "description": "- I defined, designed and built the .Net architecture of the habitaclia.com website and backoffice.\n- I maintained the company's legacy applications.\n- I introduced application lifecycle management (ALM) based on Team Foundation Server.\n- I worked with a wide range of technologies such as: VB6, ASP 3, Javascript, Browserify, Gulp, SQL Server, Google Maps API, Azure Service Bus, Dapper and the .Net 4.5 ecosystem (WebAPI, MVC, Task Parallel Library, Async Task).\n- I applied good practices such as SOLID principles, DDD (Domain Driven Design), dependency injection, and started the journey into TDD (Test Driven Design).\n- All of this with agile methodologies."
               }
             ],
             "competences": [
@@ -327,12 +327,12 @@
         },
         "roles": [
           {
-            "name": "Arquitecto de aplicaciones - Technical Team Leader",
+            "name": "Application Architect - Technical Team Leader",
             "startDate": "2013-01-01",
             "finishDate": "2014-02-01",
             "challenges": [
               {
-                "description": "- Arquitecto y jefe de equipo liderando a Newshore dentro de **Vueling.com**\n- Desempeñé roles como desarrollador, analista, revisor de código y mentor de nuevas incorporaciones para Vueling.com.\n- Formé parte del equipo de arquitectura de Vueling.com para definir y decidir hacia dónde evolucionará la plataforma.\n- Desarrollaba usando Scrum, principios SOLID, DDD (Domain Driven Design), TDD (Test Driven Design) y entrega continua. \n- Utilizaba tecnologías como: TFS, WCF, MVC 4, Entity Framework, SQL Server, Javascript, Google Maps API, jQuery, IoC Autofac, NMock"
+                "description": "- Architect and team lead, leading Newshore inside **Vueling.com**.\n- I worked as developer, analyst, code reviewer and mentor for new team members at Vueling.com.\n- I was part of the Vueling.com architecture team, defining and deciding how the platform would evolve.\n- I developed using Scrum, SOLID principles, DDD (Domain Driven Design), TDD (Test Driven Design) and continuous delivery.\n- I used technologies such as: TFS, WCF, MVC 4, Entity Framework, SQL Server, Javascript, Google Maps API, jQuery, IoC Autofac, NMock"
               }
             ],
             "competences": [
@@ -379,7 +379,7 @@
             "finishDate": "2012-12-01",
             "challenges": [
               {
-                "description": "- Representante de España dentro del SME (Subject Matter Experts) de ATOS International, encargado de la definición y publicación de las normas y técnicas mundiales para el desarrollo de soluciones con tecnología Microsoft.\n- Arquitecto, jefe de equipo y soporte a los equipos de desarrollo. \n- Soporte a preventas y prototipos para nuevos clientes. \n- Uso de tecnologías como .Net, MVC 4, Javascript, IoC Ninject, Oracle, SQL Server, TFS."
+                "description": "- Spain's representative in the SME (Subject Matter Experts) group of ATOS International, in charge of defining and publishing the worldwide standards and techniques for building solutions with Microsoft technology.\n- Architect, team lead and support for the development teams.\n- Pre-sales support and prototypes for new clients.\n- Use of technologies such as .Net, MVC 4, Javascript, IoC Ninject, Oracle, SQL Server, TFS."
               }
             ],
             "competences": [
@@ -422,12 +422,12 @@
         },
         "roles": [
           {
-            "name": "De Analista Programador a Arquitecto de aplicaciones",
+            "name": "From Analyst Programmer to Application Architect",
             "startDate": "2004-08-01",
             "finishDate": "2010-06-01",
             "challenges": [
               {
-                "description": "- Gestionaba el equipo técnico, participaba en la toma de requisitos, análisis y diseño de soluciones. \n- Desarrollaba sistemas GIS (Sistemas de información geográficos) con Microsoft .NET, ORACLE SPATIAL, soluciones Autodesk, soluciones Archibus FM, Gestión Documental y dispositivos móviles. \n- Daba soporte en la preventa de proyectos, reuniones con los futuros clientes y desarrollo de prototipos."
+                "description": "- I managed the technical team and took part in requirements gathering, analysis and solution design.\n- I built GIS (Geographic Information Systems) with Microsoft .NET, ORACLE SPATIAL, Autodesk solutions, Archibus FM solutions, Document Management and mobile devices.\n- I supported project pre-sales, meetings with future clients and prototype development."
               }
             ],
             "competences": [
@@ -457,12 +457,12 @@
         },
         "roles": [
           {
-            "name": "Analista-Programador",
+            "name": "Analyst Programmer",
             "startDate": "2003-10-01",
             "finishDate": "2004-07-01",
             "challenges": [
               {
-                "description": "Análisis y desarrollo de aplicaciones cartográficas para el departamento de Información de Base y Cartografía. (Delphi, C, C++, ORACLE, UML)."
+                "description": "Analysis and development of mapping applications for the Base Information and Cartography department. (Delphi, C, C++, ORACLE, UML)."
               }
             ],
             "competences": [
@@ -501,12 +501,12 @@
         },
         "roles": [
           {
-            "name": "Programador",
+            "name": "Programmer",
             "startDate": "2001-09-01",
             "finishDate": "2003-02-01",
             "challenges": [
               {
-                "description": "Desarrollo de aplicaciones internas para la universidad. \nDelphi 6, PL-SQL y Visual Basic for Applications. \nDBA Junior ORACLE 8"
+                "description": "Development of internal applications for the university. \nDelphi 6, PL-SQL and Visual Basic for Applications. \nJunior ORACLE 8 DBA"
               }
             ],
             "competences": [
@@ -534,8 +534,8 @@
     "projects": [
       {
         "details": {
-          "name": "stepwise-dev: flujo de desarrollo para Claude Code",
-          "description": "Plugins open source para Claude Code, que también funcionan con Codex, para mantener el contexto bajo control con un flujo **Research → Plan → Implement → Validate**: /clear entre fases y todo lo investigado y planificado guardado en ficheros, para no perderlo.\n\nIncluye skills de buenas prácticas como TDD, small safe steps, story splitting o el método hamburguesa, y un sistema de investigación con varios agentes.\n\nLas skills principales tienen **evals** para comprobar que aportan algo más de lo que el modelo ya hace solo.\n\n[Artículo: Tu CLAUDE.md no funciona (sin Context Engineering)](https://nikeyes.github.io/tu-claude-md-no-funciona-sin-context-engineering-es/)",
+          "name": "stepwise-dev: development workflow for Claude Code",
+          "description": "Open source plugins for Claude Code, which also work with Codex, to keep the context under control with a **Research → Plan → Implement → Validate** workflow: /clear between phases, and everything researched and planned is saved in files so it is not lost.\n\nIt includes skills for good practices such as TDD, small safe steps, story splitting or the hamburger method, and a research system with several agents.\n\nThe main skills have **evals** to check that they add something more than what the model already does on its own.\n\n[Article: Your CLAUDE.md does not work (without Context Engineering)](https://nikeyes.github.io/tu-claude-md-no-funciona-sin-context-engineering-es/)",
           "URL": "https://github.com/nikeyes/stepwise-dev",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/cc4575c5-c814-4454-84ac-5ce7e8927d3f_stepwisedev.png",
@@ -564,8 +564,8 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Ponente en AWS Summit Madrid 2026: Mejora tu productividad con Claude Code en Amazon Bedrock",
-          "description": "Presenté el caso real de Kleinanzeigen:\n- De 0 a 350 personas usando Claude Code.\n- 340 repositorios migrados a Java 25 de forma autónoma.\n- Un revisor de PRs con reglas propias.\n- Governance con Bedrock y métricas de impacto, no solo de uso.\n\nY lo más importante: Todo lo que no nos está funcionando. 😅",
+          "name": "Speaker at AWS Summit Madrid 2026: Boost your productivity with Claude Code on Amazon Bedrock",
+          "description": "I presented the real case of Kleinanzeigen:\n- From 0 to 350 people using Claude Code.\n- 340 repositories migrated to Java 25 autonomously.\n- A PR reviewer with our own rules.\n- Governance with Bedrock and impact metrics, not only usage metrics.\n\nAnd most important: everything that is not working for us. 😅",
           "URL": "https://lnkd.in/p/eEA3Fgem",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/574932c7-f7ba-4236-8a3a-5749a3a16523_aws-summit-cover.png",
@@ -587,8 +587,8 @@
       },
       {
         "details": {
-          "name": "Me fío de mis skills porque tienen evals",
-          "description": "Hay cientos de skills para Claude Code, pero yo uso muy pocas: solo las que demuestran que aportan algo más de lo que el modelo ya hace por defecto.\n\nCuento cómo las mido con el framework de evaluación de skill-creator: la misma tarea con y sin la skill, comparando pass rate, tokens y tiempo en cada iteración.\n\n**Las evals son los tests de tus skills.** Sin ellas no sabes si funcionan: solo crees que funcionan.",
+          "name": "I trust my skills because they have evals",
+          "description": "There are hundreds of skills for Claude Code, but I use very few: only the ones that prove they add something more than what the model already does by default.\n\nI explain how I measure them with the skill-creator evaluation framework: the same task with and without the skill, comparing pass rate, tokens and time in each iteration.\n\n**Evals are the tests of your skills.** Without them you do not know if they work: you only believe they work.",
           "URL": "https://nikeyes.github.io/me-fio-de-mis-skills-porque-tienen-evals-es/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/0244e9b9-7f2c-48f3-bb84-acfa0f4b66b8_evals_skills.png",
@@ -606,8 +606,8 @@
       },
       {
         "details": {
-          "name": "Charla y workshop: Desarrollo con IA - Descubriendo mejores formas de desarrollar",
-          "description": "Charla y workshop práctico sobre desarrollo de software asistido por IA, impartidos en Wallbox, Adevinta y Kleinanzeigen.\n\nLa charla parte del estudio de METR, en el que developers senior creían ir un 20% más rápido con IA y en realidad iban un 19% más lento. La idea central: el problema no es la IA, es cómo la usamos. Explico con ejemplos prácticos como uso la IA en mi día a día para desarrollar.\n\nEn el workshop cada persona trabaja con Claude Code sobre su propio repo y un ticket real: CLAUDE.md y contexto, permisos, hooks como guardarraíles, skills, subagentes y plugins.\n\n[Material y slides](https://github.com/nikeyes/ai-dev-workshop)",
+          "name": "Talk and workshop: Developing with AI - Discovering better ways to develop",
+          "description": "Talk and hands-on workshop about AI-assisted software development, given at Wallbox, Adevinta and Kleinanzeigen.\n\nThe talk starts from the METR study, where senior developers believed they were 20% faster with AI but were actually 19% slower. The main idea: the problem is not AI, it is how we use it. I explain with practical examples how I use AI in my daily development work.\n\nIn the workshop each person works with Claude Code on their own repo and a real ticket: CLAUDE.md and context, permissions, hooks as guardrails, skills, subagents and plugins.\n\n[Material and slides](https://github.com/nikeyes/ai-dev-workshop)",
           "URL": "https://github.com/nikeyes/ai-dev-workshop",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/5c109986-169c-488c-ae8f-02c07c418b9e_ai-dev-workshop-cove.png",
@@ -625,8 +625,8 @@
       },
       {
         "details": {
-          "name": "Tu CLAUDE.md no funciona (sin Context Engineering)",
-          "description": "Por qué Claude Code acaba ignorando tu CLAUDE.md al cabo de un rato: el problema no son tus reglas, es el contexto. La ventana de contexto no es la ventana de atención, y a partir del 60% la calidad cae.\n\nExplico el flujo **Research → Plan → Implement → Validate**, con `/clear` entre fases y el conocimiento guardado en ficheros, y cómo lo automaticé en [stepwise-dev](https://github.com/nikeyes/stepwise-dev).",
+          "name": "Your CLAUDE.md does not work (without Context Engineering)",
+          "description": "Why Claude Code ends up ignoring your CLAUDE.md after a while: the problem is not your rules, it is the context. The context window is not the attention window, and after 60% the quality drops.\n\nI explain the **Research → Plan → Implement → Validate** workflow, with `/clear` between phases and the knowledge saved in files, and how I automated it in [stepwise-dev](https://github.com/nikeyes/stepwise-dev).",
           "URL": "https://nikeyes.github.io/tu-claude-md-no-funciona-sin-context-engineering-es/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/f93568e2-a6bf-4f25-b470-f7e4b2bb790d_captura-contexto-ver.png",
@@ -644,8 +644,8 @@
       },
       {
         "details": {
-          "name": "Ponente en DAMA Talks Barcelona 2025: ciberseguridad e IA generativa",
-          "description": "Ponente en el DAMA Talks de DAMA España sobre ciberseguridad y seguridad del dato en la era de la IA generativa, en las oficinas de T-Systems Iberia en Barcelona.\n\nHicimos demos en directo para explicar los riesgos de seguridad de las aplicaciones con LLMs y de cómo protegerlas.",
+          "name": "Speaker at DAMA Talks Barcelona 2025: cybersecurity and generative AI",
+          "description": "Speaker at DAMA Spain's DAMA Talks about cybersecurity and data security in the era of generative AI, at the T-Systems Iberia offices in Barcelona.\n\nWe did live demos to explain the security risks of LLM applications and how to protect them.",
           "URL": "https://www.linkedin.com/feed/update/urn:li:activity:7356224557638180865/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/9fcb0935-902b-4bbb-b48c-4f1048be7360_dama_talks.jpg",
@@ -675,8 +675,8 @@
       },
       {
         "details": {
-          "name": "Cómo ser del 5% que sí genera valor con IA generativa",
-          "description": "El 95% de los proyectos de IA generativa fracasan. En este artículo cuento qué hace diferente al 5% restante.\n\n- **Antes de empezar:** cuándo tiene sentido usar IA y cuándo basta con un if/else.\n- **Los errores más comunes:** POC tras POC sin llegar a producción, \"ya optimizaremos después\" y no especializar la IA en tu dominio.\n- **Cómo hacerlo bien:** métricas de negocio desde el día 1, observabilidad y evals, arquitectura simple, costes bajo control y precisión donde importa.\n\nCon casos reales como Lumen, Vodafone o LawGeex.",
+          "name": "How to be in the 5% that does get value from generative AI",
+          "description": "95% of generative AI projects fail. In this article I explain what makes the other 5% different.\n\n- **Before you start:** when it makes sense to use AI and when an if/else is enough.\n- **The most common mistakes:** POC after POC without reaching production, \"we will optimize later\" and not specializing the AI in your domain.\n- **How to do it right:** business metrics from day 1, observability and evals, simple architecture, costs under control and accuracy where it matters.\n\nWith real cases such as Lumen, Vodafone or LawGeex.",
           "URL": "https://nikeyes.github.io/como-ser-el-5-por-ciento-que-si-generan-valor-con-IA-generativa-es/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/b34708ab-63a1-4a9b-a436-5016191e6d84_5percent-vertical.jpg",
@@ -694,8 +694,8 @@
       },
       {
         "details": {
-          "name": "Creación del reto IA para el Master in Data Analytics for Business - UPF Barcelona School of Management",
-          "description": "Creación del reto de IA para los alumnos del master.\nLos alumnos tuvieron que usar Machine Learning para resolver un reto con datos de Infojobs y presentar su trabajo en a final del master.\n\nhttps://www.bsm.upf.edu/en/master-data-analytics-business",
+          "name": "Creation of the AI challenge for the Master in Data Analytics for Business - UPF Barcelona School of Management",
+          "description": "Creation of the AI challenge for the master's students.\nThe students had to use Machine Learning to solve a challenge with Infojobs data and present their work at the end of the master.\n\nhttps://www.bsm.upf.edu/en/master-data-analytics-business",
           "URL": "https://www.linkedin.com/posts/freireana_dataanalytics-innovaciaejn-python-activity-7186394103989846017-d9zx/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/13/c9f8d50e-39b4-4b93-8b9c-a1987eecd133_c56e0737-a961-4e94-a.jpg",
@@ -707,8 +707,8 @@
       },
       {
         "details": {
-          "name": "Ponente en Commit Conf 2025: Hackea y protege tus aplicaciones de GenAI",
-          "description": "Charla con Alejandro Bustamante sobre seguridad en aplicaciones de IA generativa: cómo se atacan y qué defensas funcionan de verdad.\n\nHicimos una demo en directo con un chatbot protegido. El código está publicado en GitHub.\n\n- [Vídeo](https://www.youtube.com/watch?v=FHckzoXfs9k)\n- [Slides](https://bit.ly/slides-genai-security)\n- [Código de la demo](https://github.com/nikeyes/genai-security-demo)",
+          "name": "Speaker at Commit Conf 2025: Hack and protect your GenAI applications",
+          "description": "Talk with Alejandro Bustamante about security in generative AI applications: how they are attacked and which defenses really work.\n\nWe did a live demo with a protected chatbot. The code is published on GitHub.\n\n- [Video](https://www.youtube.com/watch?v=FHckzoXfs9k)\n- [Slides](https://bit.ly/slides-genai-security)\n- [Demo code](https://github.com/nikeyes/genai-security-demo)",
           "URL": "https://www.youtube.com/watch?v=FHckzoXfs9k",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/8ae181c6-80d8-4c74-900e-a9f5c380d6ea_commitconf.jpeg",
@@ -738,8 +738,8 @@
       },
       {
         "details": {
-          "name": "Ponente en Datadog Live Madrid 2025",
-          "description": "Conté cómo monitorizamos cada día todos nuestros sistemas, tanto software clásico como IA, y cómo usamos Datadog para detectar problemas antes de que afecten a los usuarios, en lugar de enterarnos cuando algo ya ha fallado.",
+          "name": "Speaker at Datadog Live Madrid 2025",
+          "description": "I explained how we monitor all our systems every day, both classic software and AI, and how we use Datadog to detect problems before they affect users, instead of finding out when something has already failed.",
           "URL": "https://www.linkedin.com/feed/update/urn:li:share:7292447146031697920/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/35e8df2b-6ecd-41db-a5f4-d00fbe1e97df_datadog-day-madrid.jpg",
@@ -757,8 +757,8 @@
       },
       {
         "details": {
-          "name": "Ponente en el AWS Summit 2024",
-          "description": "Ponente en el AWS summit de Madrid para explicar cómo usamos la IA Generativa en Adevinta",
+          "name": "Speaker at AWS Summit 2024",
+          "description": "Speaker at the AWS Summit in Madrid to explain how we use Generative AI at Adevinta.",
           "URL": "https://www.linkedin.com/posts/igsalvar_aws-generativeai-madridsummit2024-ugcPost-7204525828997550080-raP1/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/25/a57dbcb5-b1ac-4106-86e4-d33106e44dae_1716879778152-1-1.jpeg",
@@ -770,8 +770,8 @@
       },
       {
         "details": {
-          "name": "Ganador del Adevinta Ignite 2024",
-          "description": "Ganador del premio embajador de Adevinta en la edición 2024 por mi contribución mentorizando a varios compañeros y compañeras y por difundir la marca Adevinta.",
+          "name": "Winner of Adevinta Ignite 2024",
+          "description": "Winner of the Adevinta ambassador award in the 2024 edition for my work mentoring several colleagues and for spreading the Adevinta brand.",
           "URL": "https://adevinta.com/stories/articles/ignite-and-the-adevinta-awards/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/931009f9-e3be-476b-8cf7-37a958c3101a_copie-de-finca-mas-s.jpg",
@@ -783,8 +783,8 @@
       },
       {
         "details": {
-          "name": "Creador y profesor del Curso de GenAI para Adevinta",
-          "description": "Junto a mis compañeros Youness Nadir y Eric Bellet, hemos desarrollado e impartido 6 sesiones formativas enfocadas en las necesidades específicas de Adevinta:\n\n1. Using GenAI in Adevinta:\n2. Prompting best practices:\n3. GenAI Tooling:\n4. Security and Risks\n",
+          "name": "Creator and teacher of the GenAI Course for Adevinta",
+          "description": "Together with my colleagues Youness Nadir and Eric Bellet, we created and taught 6 training sessions focused on the specific needs of Adevinta:\n\n1. Using GenAI in Adevinta:\n2. Prompting best practices:\n3. GenAI Tooling:\n4. Security and Risks\n",
           "URL": "https://www.linkedin.com/posts/jorge-castro-nistal_generativeai-generativeai-adevintans-activity-7241830536858505219-Jw4o",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/6b13fd84-91f1-4335-b819-174450369a03_genai-course-cover.png",
@@ -796,8 +796,8 @@
       },
       {
         "details": {
-          "name": "Creación del reto IA para el Master in Data Analytics for Business - UPF Barcelona School of Management ",
-          "description": "Creación del reto de IA para los alumnos del master.\nLos alumnos tuvieron que usar Machine Learning para resolver un reto con datos de Fotocasa y presentar su trabajo en las oficinas de Adevinta.\n\nhttps://www.bsm.upf.edu/en/master-data-analytics-business",
+          "name": "Creation of the AI challenge for the Master in Data Analytics for Business - UPF Barcelona School of Management ",
+          "description": "Creation of the AI challenge for the master's students.\nThe students had to use Machine Learning to solve a challenge with Fotocasa data and present their work at the Adevinta offices.\n\nhttps://www.bsm.upf.edu/en/master-data-analytics-business",
           "URL": "https://www.linkedin.com/posts/freireana_dataanalytics-innovaciaejn-python-activity-7186394103989846017-d9zx/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/25/5b8c646b-a91b-4021-bc04-15165da800e5_reto.jpeg",
@@ -809,8 +809,8 @@
       },
       {
         "details": {
-          "name": "Mentoría a una compañera para dar su primera charla - Charla para IT Academy - Barcelona Activa",
-          "description": "Mentoría a mi compañera Wanda Delisio para dar su primera charla.\nCreamos una charla y un workshop para ayudar a los alumnos de la especialización de Data Science de la IT Academy de Barcelona Activa para ver las diferencias entre estudiar y trabajar y cómo enfrentarse a su primer trabajo.\n",
+          "name": "Mentoring a colleague to give her first talk - Talk for IT Academy - Barcelona Activa",
+          "description": "Mentoring my colleague Wanda Delisio to give her first talk.\nWe created a talk and a workshop to help the Data Science students at the Barcelona Activa IT Academy see the differences between studying and working, and how to face their first job.\n",
           "URL": "https://www.linkedin.com/posts/it-academy-barcelonactiva_itacademy-datascience-workshop-activity-7128365594176815104-oudT",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/25/216d6faf-80e9-4d7f-af8d-605a863dacc2_barcelonaactiva-1.jpeg",
@@ -822,8 +822,8 @@
       },
       {
         "details": {
-          "name": "Evolución de los perfiles Data para IT Academy - Barcelona Activa",
-          "description": "Charla para la dirección de la IT Academy de Barcelona Activa para explicar cómo están cambiando los perfiles \"Data\" en el mercado laboral y cómo pueden adaptar su temario para ayudar a que sea más cercano al mundo laboral.",
+          "name": "Evolution of Data profiles for IT Academy - Barcelona Activa",
+          "description": "Talk for the management of the Barcelona Activa IT Academy to explain how \"Data\" profiles are changing in the job market and how they can adapt their syllabus to bring it closer to the real working world.",
           "URL": "https://www.barcelonactiva.cat/es/itacademy",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/25/446f21bb-edce-4870-8cc6-aec0b25f3cba_data_profiles.png",
@@ -835,8 +835,8 @@
       },
       {
         "details": {
-          "name": "Cómo seguir aprendiendo con familia numerosa",
-          "description": "2 artículos que nacen del Open Space de la Barcelona Software Crafters de 2022 donde estuve hablando sobre cómo seguir aprendiendo si tienes trabajo, familia u otras responsabilidades.\n\n- [Cómo me organizo con trabajo y familia numerosa](https://nikeyes.github.io/como-me-organizo-con-trabajo-y-familia-numerosa/)\n    \n- [Cómo sigo aprendiendo con trabajo y familia numerosa](https://nikeyes.github.io/como-sigo-aprendiendo-con-trabajo-y-familia-numerosa/)",
+          "name": "How to keep learning with a large family",
+          "description": "2 articles that come from the 2022 Barcelona Software Crafters Open Space, where I talked about how to keep learning when you have a job, a family or other responsibilities.\n\n- [How I organize myself with work and a large family](https://nikeyes.github.io/como-me-organizo-con-trabajo-y-familia-numerosa/)\n    \n- [How I keep learning with work and a large family](https://nikeyes.github.io/como-sigo-aprendiendo-con-trabajo-y-familia-numerosa/)",
           "URL": "https://nikeyes.github.io/como-sigo-aprendiendo-con-trabajo-y-familia-numerosa/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/25/c60a8ecb-1baf-4c1f-847c-5f79f9c2d6dd_img-20221022-wa0021-.jpg",
@@ -848,8 +848,8 @@
       },
       {
         "details": {
-          "name": "Mentoría y charla: Ya sé Machine Learning pero... ¿estoy preparada para el mundo real?",
-          "description": "Charla que nace de una mentoria a mi compañera Elena Tajadura para mejorar su confianza, eliminar el síndrome del impostor y mejorar sus habilidades comunicativas.\nEsta charla fue el final de la mentoría y la dimos en:\n- Adevinta\n- Software Crafters Barcelona\n- Codemotion \n- DevBCN",
+          "name": "Mentoring and talk: I already know Machine Learning but... am I ready for the real world?",
+          "description": "A talk that came from mentoring my colleague Elena Tajadura to build her confidence, overcome impostor syndrome and improve her communication skills.\nThis talk was the end of the mentoring and we gave it at:\n- Adevinta\n- Software Crafters Barcelona\n- Codemotion \n- DevBCN",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/11/78038f2d-d5bf-41e4-b0ab-e4897e06fc8d_53082707462_4de12f92.jpg",
             "alt": "53082707462_4de12f927e_o.jpg"
@@ -874,8 +874,8 @@
       },
       {
         "details": {
-          "name": "Mentor de perfiles senior para cambio de rol a Machine Learning Engineer",
-          "description": "Mentor de varias personas para hacer el cambio de su rol a un rol de machine learning engineer",
+          "name": "Mentor for senior profiles moving into a Machine Learning Engineer role",
+          "description": "Mentor for several people to help them move from their role to a machine learning engineer role.",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/25/1f3b711f-3df1-429a-9327-ceaeeaaa1484_mentoring.jpeg",
             "alt": "mentoring.jpeg"
@@ -886,8 +886,8 @@
       },
       {
         "details": {
-          "name": "De desarrollador a manager",
-          "description": "Artículo con 12 puntos a tener en cuenta cuando pasas de desarrollador a manager.\nSe publicó en el [Podcast de Carlos Blé - Experiencias de un programador](https://youtu.be/tXylXIBvqbA?t=2143) \ny en el [blog de Adevinta](https://dev.to/adevintaspain/de-desarrollador-a-manager-cf3)",
+          "name": "From developer to manager",
+          "description": "Article with 12 points to keep in mind when you move from developer to manager.\nIt was published on [Carlos Blé's podcast - Experiencias de un programador](https://youtu.be/tXylXIBvqbA?t=2143) \nand on the [Adevinta blog](https://dev.to/adevintaspain/de-desarrollador-a-manager-cf3)",
           "URL": "https://youtu.be/tXylXIBvqbA?t=2143",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/1008c61e-6d3e-417c-ab97-1ef1fc8f87c1_screenshot-2024-12-2.png",
@@ -899,8 +899,8 @@
       },
       {
         "details": {
-          "name": "Ponente Agile Open Space 2018",
-          "description": "Ponencia en el Agile Open Space sobre \"Desarrolladores en un evento Agile\"",
+          "name": "Speaker at Agile Open Space 2018",
+          "description": "Talk at the Agile Open Space about \"Developers at an Agile event\"",
           "URL": "https://www.youtube.com/watch?v=N0r9G9YdXvE",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/0df3dc2b-b99e-4925-b9e0-3b870193cdac_output-onlinepngtool.png",
@@ -912,8 +912,8 @@
       },
       {
         "details": {
-          "name": "Miembro de la Software Crafters Barcelona desde hace más de 10 años.",
-          "description": "Siempre que he podido combinarlo con mis responsabilidades familiares, he participado como ponente, facilitador y organizador de charlas para apoyar a la comunidad.",
+          "name": "Member of Software Crafters Barcelona for more than 10 years.",
+          "description": "Whenever I could combine it with my family responsibilities, I have taken part as a speaker, facilitator and talk organizer to support the community.",
           "URL": "https://www.meetup.com/es-ES/software-crafters-barcelona/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/dd1d94a8-4716-49a0-85ff-c825a1eb038b_highres_442914835.png",
@@ -929,17 +929,17 @@
     "languages": [
       {
         "name": "CA",
-        "fullName": "Catalán / Valenciano",
+        "fullName": "Catalan / Valencian",
         "level": "Full professional proficiency"
       },
       {
         "name": "EN",
-        "fullName": "Inglés",
+        "fullName": "English",
         "level": "Professional working proficiency"
       },
       {
         "name": "ES",
-        "fullName": "Español",
+        "fullName": "Spanish",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -1129,11 +1129,11 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Curso sobre procesos de selección, liderazgo y coaching",
+        "name": "Course on recruitment processes, leadership and coaching",
         "startDate": "2017-05-01",
         "institution": {
           "name": "Lee Hecht Harrison",
-          "description": "Técnicas sobre procesos de selección, liderazgo de equipos y coaching de personas.",
+          "description": "Techniques for recruitment processes, team leadership and people coaching.",
           "URL": "https://www.lhh.com/es/es/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/e14aecbc-2490-4432-842d-79927f63b15a_lee-hecht-harrison-6.jpeg",
@@ -1145,7 +1145,7 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Ingeniería Informática",
+        "name": "Computer Engineering",
         "startDate": "2003-03-01",
         "institution": {
           "name": "Universitat Politècnica de Catalunya (UPC)"
@@ -1155,7 +1155,7 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Ingeniería técnica informática",
+        "name": "Technical Engineering in Computer Science",
         "startDate": "1999-09-01",
         "institution": {
           "name": "Escola Universitaria Politècnica de Mataró"
@@ -1165,11 +1165,11 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Management 3.0 con Ángel Medinilla y Gabriel Prat",
+        "name": "Management 3.0 with Ángel Medinilla and Gabriel Prat",
         "startDate": "2018-03-01",
         "institution": {
           "name": "www.improvement21.com",
-          "description": "Marco de gestión alineado con Agile y la gestión de personas y equipos.",
+          "description": "Management framework aligned with Agile and the management of people and teams.",
           "URL": "https://www.improvement21.com/eventos/curso-oficial-management-3-0-foundations-workout-barcelona-marzo-2018/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/23/e2fda4e3-ed2f-4b54-b49a-5985d971dec6_m30-logo.png",
@@ -1254,11 +1254,11 @@
         "type": "technology"
       }
     ],
-    "desiredJobDescription": "Me veo en un puesto de **AI Engineer** o **AI Enabler** donde pueda construir productos y, a la vez, ayudar a toda la organización, técnica y no técnica, a sacarle partido a la IA.\n\nMe encajan empresas que quieren llevar la IA a producción y a sus equipos, no solo experimentar con ella. Donde se confíe en la autonomía, se permita fallar para aprender y no se olvide que la tecnología es un siervo útil, pero un amo peligroso.\n\nLa conciliación es esencial para mí: mi mayor pasión es mi familia, y el equilibrio me permite dar lo mejor tanto en el trabajo como en casa.",
-    "goodPractices": "Creo en las metodologías ágiles, pero no sin las prácticas técnicas que nos permiten entregar software más rápido y con más calidad:\n- Diseño simple\n- TDD y tests automatizados\n- Refactoring\n- Pair programming\n- Integración y entrega continua\n\nCon IA hago lo mismo: tests, evals y pasos pequeños, para saber que algo funciona, no solo creerlo.\n\n**Soy pragmático**: sé cuándo relajar las prácticas para **llegar antes al usuario**, arreglar un problema en producción o validar una hipótesis.\n\n**Me encanta aprender**, y cualquier persona del equipo puede enseñarme algo, lleve un año o veinte.",
+    "desiredJobDescription": "I see myself in an **AI Engineer** or **AI Enabler** role where I can build products and, at the same time, help the whole organization, technical and non-technical, get the most out of AI.\n\nI fit well in companies that want to take AI to production and to their teams, not just experiment with it. Places that trust autonomy, allow failing in order to learn, and do not forget that technology is a useful servant but a dangerous master.\n\nWork-life balance is essential for me: my biggest passion is my family, and balance lets me give my best both at work and at home.",
+    "goodPractices": "I believe in agile methodologies, but not without the technical practices that let us deliver software faster and with better quality:\n- Simple design\n- TDD and automated tests\n- Refactoring\n- Pair programming\n- Continuous integration and delivery\n\nWith AI I do the same: tests, evals and small steps, to know that something works, not just believe it.\n\n**I am pragmatic**: I know when to relax the practices to **reach the user sooner**, fix a problem in production or validate a hypothesis.\n\n**I love learning**, and anyone on the team can teach me something, whether they have been here one year or twenty.",
     "projects": [
       {
-        "name": "stepwise-dev: flujo de desarrollo para Claude Code"
+        "name": "stepwise-dev: development workflow for Claude Code"
       }
     ]
   }
